@@ -1,0 +1,49 @@
+{
+ "touabire-enclos": {
+  "credit": "Bigfall91, CC BY-SA 4.0, Wikimedia Commons",
+  "page": "https://commons.wikimedia.org/wiki/File:B%C3%A9liers_dans_l%27enclos.jpg",
+  "source": "File:Béliers dans l'enclos.jpg"
+ },
+ "peul-cloture": {
+  "credit": "Niels Broekzitter, CC BY 2.0, Wikimedia Commons",
+  "page": "https://commons.wikimedia.org/wiki/File:Gambia_%26_Senegal_2009_(3686544367).jpg",
+  "source": "File:Gambia & Senegal 2009 (3686544367).jpg"
+ },
+ "bali-tete": {
+  "credit": "Hopeballa, CC BY 4.0, Wikimedia Commons",
+  "page": "https://commons.wikimedia.org/wiki/File:BELIER_BALI_BALI.jpg",
+  "source": "File:BELIER BALI BALI.jpg"
+ },
+ "ngor-troupeau": {
+  "credit": "Tbo47, CC0, Wikimedia Commons",
+  "page": "https://commons.wikimedia.org/wiki/File:Moutons_pour_la_Tabaski_sur_la_plage_de_Ngor_%C3%A0_Dakar.jpg",
+  "source": "File:Moutons pour la Tabaski sur la plage de Ngor à Dakar.jpg"
+ },
+ "croise-herbe": {
+  "credit": "Habobe2020, CC BY-SA 4.0, Wikimedia Commons",
+  "page": "https://commons.wikimedia.org/wiki/File:Un_mouton_broutant_de_l%27herbe_Kaolack,_S%C3%A9n%C3%A9gal.jpg",
+  "source": "File:Un mouton broutant de l'herbe Kaolack, Sénégal.jpg"
+ },
+ "ladoum": {
+  "credit": "Self Otentic, CC BY-SA 4.0, Wikimedia Commons",
+  "page": "https://commons.wikimedia.org/wiki/File:Mouton_Ladoum.jpg",
+  "source": "File:Mouton Ladoum.jpg"
+ },
+ "paysage-acacia": {
+  "credit": "Dorothy Voorhees, CC BY-SA 2.0, Wikimedia Commons",
+  "page": "https://commons.wikimedia.org/wiki/File:Sheep-Kounkane.jpg",
+  "source": "File:Sheep-Kounkane.jpg"
+ },
+ "couverture-bali": {
+  "credit": "Hopeballa, CC BY 4.0, Wikimedia Commons",
+  "page": "https://commons.wikimedia.org/wiki/File:BELIER_BALI_BALI.jpg",
+  "source": "File:BELIER BALI BALI.jpg"
+ },
+ "3d/belier": {
+  "titre": "Bélier Bali-Bali, image de synthèse (pas un animal du catalogue)",
+  "auteur": "Base du corps et des pattes : « Sheep » de hendrikReyneke",
+  "licence": "CC BY 4.0",
+  "source": "https://sketchfab.com/3d-models/sheep-67abff7459f34afca11e3effab62c761",
+  "modifications": "proportions changées, tête, cou, cornes, oreilles, queue, yeux, poils et robe refaits par script ; rendu Blender Cycles, Yaralma (voir marque/3d)"
+ }
+}
