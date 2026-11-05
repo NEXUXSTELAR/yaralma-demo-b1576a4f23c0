@@ -5,23 +5,26 @@
     <meta charset="UTF-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover" />
     <meta name="theme-color" content="#F7F3EA" />
-    <meta name="description" content="Choisissez dès aujourd'hui un mouton identifié chez un éleveur vérifié. Prix bloqué, paiement en plusieurs fois avec Wave, suivi vidéo, livraison avant la Tabaski. Pour Dakar et la diaspora." />
+    <meta name="description" content="Choisissez dès aujourd'hui un mouton identifié chez un éleveur vérifié. Prix bloqué, paiement en plusieurs fois avec Wave, suivi vidéo, livraison à la date choisie. Tabaski, baptême, mariage : partout au Sénégal et pour la diaspora." />
     <link rel="icon" href="./icon.svg" type="image/svg+xml" />
     <link rel="preload" as="font" type="font/woff2" crossorigin href="./assets/archivo-latin-wdth-normal-DY7AcnAa.woff2" />
-    <title>Yaralma — votre mouton de Tabaski, élevé pour vous</title>
-    <script type="module" crossorigin src="./assets/index-D4OoPodB.js"></script>
+    <title>Yaralma : votre mouton, élevé pour vous</title>
+    <script type="module" crossorigin src="./assets/index-XLoQvZIv.js"></script>
     <link rel="modulepreload" crossorigin href="./assets/jsx-runtime-Am8b9ysO.js">
-    <link rel="stylesheet" crossorigin href="./assets/index-DzlqGmtK.css">
+    <link rel="modulepreload" crossorigin href="./assets/Discussion-e4BwA8nS.js">
+    <link rel="modulepreload" crossorigin href="./assets/EspaceEquipeFerme-B-yD8QlD.js">
+    <link rel="stylesheet" crossorigin href="./assets/Discussion-BxCd-b5U.css">
+    <link rel="stylesheet" crossorigin href="./assets/index-eMH-MSSU.css">
   </head>
   <body>
     <div id="root">
       <!-- La coquille : ce qu'on voit avant le JavaScript, en 4G lente. React la remplace. Les textes sont vérifiés par Calculateur.test.tsx. -->
-      <aside class="bandeau-demo" id="coquille-demo" aria-label="Démonstration">Démonstration : éleveurs, moutons et paiements fictifs.</aside>
+      <aside class="bandeau-demo" id="coquille-demo" aria-label="Démonstration">Démonstration : éleveurs, moutons, images et paiements fictifs.</aside>
       <header class="barre"><div class="page"><a class="marque" href="#accueil"><svg width="36" height="36" viewBox="0 0 48 48" aria-hidden="true"><path d="M24 42V24" stroke="#241b17" stroke-width="5"/><path d="M24 24C19 20 13 16 11.5 11C10.5 7.5 13 5 16 6" fill="none" stroke="#241b17" stroke-width="4.4"/><path d="M24 24C29 20 35 16 36.5 11C37.5 7.5 35 5 32 6" fill="none" stroke="#241b17" stroke-width="4.4"/><path d="M34.5 19.5L39 24L34.5 28.5L30 24Z" fill="#f4c20d"/><circle cx="34.5" cy="22.6" r="1" fill="#241b17"/></svg>Yaralma</a></div></header>
       <main class="laine"><div class="contenu"><div class="hero-fond fond-robe fond-robe-marron" id="coquille-hero"><section class="page hero"><div>
-        <span class="surtitre">Tabaski 2027 · Dakar et banlieue</span>
+        <span class="surtitre">Tabaski et autres occasions · Tout le Sénégal</span>
         <h1>Votre mouton, élevé pour vous.</h1>
-        <p class="accroche">Choisissez-le maintenant. Payez chaque mois avec Wave. Il arrive chez vous avant la fête.</p>
+        <p class="accroche">Choisissez-le maintenant. Payez chaque mois avec Wave. Il arrive chez vous à la date choisie.</p>
         <div class="boutons"><a class="bouton principal" href="#moutons">Choisir mon mouton</a></div>
         <p class="meta hero-suivi">Déjà engagé ? <a href="#suivi">Suivre mon mouton</a></p>
       </div><figure class="visuel photo scene3d"></figure></section></div></div></main>
@@ -29,10 +32,14 @@
     <script>
       // Pas de promesse Sénégal pour la diaspora ni sur une autre page ; pas de bandeau de démonstration en production.
       (function () {
+        // L'application : pas de coquille du site, seulement son nom sur la laine (voir src/appli/mode.ts).
+        var ap = false; try { ap = /[?&]app=1/.test(location.search) || (sessionStorage.getItem("yaralma-appli") === "1" && !/[?&]app=0/.test(location.search)); } catch (e) {}
+        if (window.Capacitor && window.Capacitor.isNativePlatform && window.Capacitor.isNativePlatform()) ap = true;
+        if (ap) { document.getElementById("root").innerHTML = '<div style="position:fixed;inset:0;display:grid;place-items:center;background:#f7f3ea;color:#1a1411;font:800 1.5rem Arial,sans-serif">Yaralma</div>'; return; }
         var h = location.hash, d = null; try { d = localStorage.getItem("yaralma-devise"); } catch (e) {}
         if ((h && h !== "#accueil" && h !== "#moutons") || d === "EUR") document.getElementById("coquille-hero").remove();
-        if ("%VITE_SUPABASE_URL%".charAt(0) !== "%") document.getElementById("coquille-demo").remove();
+        if ("".charAt(0) !== "%") document.getElementById("coquille-demo").remove();
       })();
-    </script>
+    </script>
   </body>
 </html>
