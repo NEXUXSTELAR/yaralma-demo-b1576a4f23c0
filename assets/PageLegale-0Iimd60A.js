@@ -1,4 +1,4 @@
-import{Bt as e}from"./index-BG1XeD5z.js";import{t}from"./jsx-runtime-DHXBON9B.js";var n=`# Conditions générales de vente : Yaralma Xar
+import{Bt as e}from"./index-Y6Sp1Nni.js";import{t}from"./jsx-runtime-DHXBON9B.js";var n=`# Conditions générales de vente : Yaralma Xar
 
 *Projet de travail du 6 novembre 2026 (montage de \`v2/recherche/modele_vente.md\` retenu : deux règles selon le pays de résidence ; grille B ; garde et garantie remplacement ; mise en ligne libre et vente ferme, prix propre à chaque mouton, livraison pour tous, tout le Sénégal, toutes les occasions, engagement du client jusqu'au bout ; poids : aucun poids à la réception, une vidéo par mois de garde, le bon état vu à la remise), non relu par un professionnel. Prix et services sont des hypothèses sans devis. À faire valider par un avocat inscrit au barreau du Sénégal avant toute utilisation.*
 
@@ -179,7 +179,7 @@ Le nombre de mensualités possible dépend de votre date de remise et de la dur�
 
 5.4. **Reçu.** Chaque versement donne lieu à un reçu qui indique le numéro de boucle, le montant payé et le **reste à payer**.
 
-5.5. **Suivi mensuel.** Chaque mois de garde, une courte vidéo de votre mouton, boucle visible et datée, vue par l'équipe, est disponible dans votre espace de suivi, avec une phrase de l'équipe : « Il va bien. » Vous voyez les vidéos à la suite. Ce suivi n'est pas lié au paiement : vous le recevez même si un versement est en retard. Il continue tant que le mouton n'est pas remis. Pour une garde de moins d'un mois, la vidéo de collecte en tient lieu. [À FAIRE VALIDER PAR UN AVOCAT]
+5.5. **Suivi mensuel.** Chaque mois de garde, une courte vidéo de votre mouton, boucle visible et datée, vue par l'équipe, est disponible dans votre espace de suivi, avec une phrase de l'équipe : « Il va bien. » Vous voyez les vidéos à la suite. Ce suivi n'est pas lié au paiement : vous le recevez même si un versement est en retard. Il continue tant que le mouton n'est pas remis. Pour une garde de moins d'un mois, la vidéo d'avant-départ en tient lieu. [À FAIRE VALIDER PAR UN AVOCAT]
 
 5.6. **Où va votre argent.**
 
