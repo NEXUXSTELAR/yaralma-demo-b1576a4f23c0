@@ -1,4 +1,4 @@
-import{Bt as e}from"./index-CUZaXPzb.js";import{t}from"./jsx-runtime-DHXBON9B.js";var n=`# Conditions générales de vente : Yaralma Xar
+import{Bt as e}from"./index-CayC3KHl.js";import{t}from"./jsx-runtime-DHXBON9B.js";var n=`# Conditions générales de vente : Yaralma Xar
 
 *Projet de travail du 6 novembre 2026 (montage de \`v2/recherche/modele_vente.md\` retenu : deux règles selon le pays de résidence ; grille B ; garde et garantie remplacement ; mise en ligne libre et vente ferme, prix propre à chaque mouton, livraison pour tous, tout le Sénégal, toutes les occasions, engagement du client jusqu'au bout ; poids : aucun poids à la réception, une vidéo par mois de garde, le bon état vu à la remise), non relu par un professionnel. Prix et services sont des hypothèses sans devis. À faire valider par un avocat inscrit au barreau du Sénégal avant toute utilisation.*
 
