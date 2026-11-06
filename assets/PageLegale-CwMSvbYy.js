@@ -1,4 +1,4 @@
-import{Bt as e}from"./index-CRxlJ27H.js";import{t}from"./jsx-runtime-DHXBON9B.js";var n=`# Conditions générales de vente : Yaralma Xar
+import{Bt as e}from"./index-BdRSRrWq.js";import{t}from"./jsx-runtime-DHXBON9B.js";var n=`# Conditions générales de vente : Yaralma Xar
 
 *Projet de travail du 6 novembre 2026 (montage de \`v2/recherche/modele_vente.md\` retenu : deux règles selon le pays de résidence ; grille B ; garde et garantie remplacement ; mise en ligne libre et vente ferme, prix propre à chaque mouton, livraison pour tous, tout le Sénégal, toutes les occasions, engagement du client jusqu'au bout ; poids : aucun poids à la réception, une vidéo par mois de garde, le bon état vu à la remise), non relu par un professionnel. Prix et services sont des hypothèses sans devis. À faire valider par un avocat inscrit au barreau du Sénégal avant toute utilisation.*
 
@@ -22,7 +22,7 @@ import{Bt as e}from"./index-CRxlJ27H.js";import{t}from"./jsx-runtime-DHXBON9B.js
 | Quel poids aura-t-il ? | **Yaralma n'annonce aucun poids à la réception.** Sur la fiche : les photos, l'âge, le gabarit, et un poids seulement si l'éleveur le connaît (« environ 32 kg, à titre indicatif »). **Regardez-le grandir, chaque mois, jusqu'au jour où vous le recevez :** une courte vidéo par mois de garde, vue par l'équipe. **La veille du départ,** une vidéo d'avant-départ arrive dans votre suivi : vous avez jusqu'au départ pour signaler un problème. **À la remise,** vous le voyez avant de donner votre code. Maigre, malade ou blessé : vous pouvez refuser, sur des signes visibles, et l'équipe tranche (articles 4.2 bis, 11.1 ter, 11.3 et 11 bis). [À FAIRE VALIDER PAR UN AVOCAT] |
 | Que montre le catalogue ? | Sur la carte : le nom du mouton, son lieu, son prix par mois et la durée, et en petit le premier acompte. **Le total est sur sa fiche et avant le paiement** (article 4.1 bis). |
 | Comment je paie ? | Un acompte **de 30 à 20 %** le jour de la commande, selon le nombre de mensualités, puis **jusqu'à 11 mensualités**, selon la durée possible pour ce mouton, jusqu'à **7 jours avant la remise** (le 30 avril 2027 pour la Tabaski 2027). Vous choisissez votre durée sur la fiche (article 5.2 bis). Uniquement sur les comptes marchands de Yaralma. |
-| Quand est-il remis ? | **À la date ou dans le mois que vous avez choisi.** Pour la Tabaski 2027 : entre le **7 et le 15 mai 2027**. Toujours dans un créneau de 2 heures que vous réservez. Livraison partout au Sénégal par un livreur partenaire de Yaralma, au prix de la grille de livraison. La veille en option, sauf si vous avez choisi un mois. |
+| Quand est-il remis ? | **À la date ou dans le mois que vous avez choisi.** Pour la Tabaski 2027 : entre le **7 et le 15 mai 2027**. Toujours dans un créneau de 2 heures que vous réservez. Livraison partout au Sénégal par un livreur partenaire de Yaralma, au prix de la grille de livraison, ou vous vous occupez du transport (article 12.1 bis). La veille en option, sauf si vous avez choisi un mois. |
 | Et si je change d'avis ? | **Vous vivez au Sénégal :** 7 jours ouvrés sans frais après la commande (article 8). Ensuite, vous vous êtes engagé : vous pouvez céder votre mouton, le reporter ou le remettre en vente (article 9). **Vous vivez dans l'Union européenne et vous commandez à distance :** vous avez le droit de vous rétracter, jusqu'à 14 jours après la réception (article 8 bis). |
 | Et si je ne peux plus payer ? | On en parle d'abord. Vous pouvez décaler une date, céder ou reporter. La fin de la réservation est le dernier recours. Le même compte s'applique alors (article 7). |
 | Quelles garanties ? | Prix bloqué. S'il meurt avant la remise : remboursé dans tous les cas, remplacé si vous avez pris la garantie. Le bon mouton. Vous le voyez grandir. Livré à temps. [À N'INSÉRER QU'APRÈS SIGNATURE ET VERSEMENT : un fonds de garantie chez un tiers. Il n'est pas constitué aujourd'hui.] |
@@ -96,7 +96,7 @@ Dans ces conditions, « **Yaralma** » désigne la société ci-dessus. « **Vou
 
 3.2. **Garde.** Jusqu'à la remise, votre mouton reste chez l'éleveur indiqué sur la fiche, jusqu'à sa collecte, le jour de sa course. Il n'y a pas de regroupement. Yaralma en assure la garde **pour votre compte**, directement ou par l'intermédiaire de l'éleveur, à qui elle impose par contrat des obligations d'alimentation, de soins, d'abri et de suivi. Les 4 premiers mois de garde sont compris dans le prix. Au-delà, une ligne de garde s'ajoute (article 4.3 ter).
 
-3.3. **Risques.** Par dérogation à la règle selon laquelle le propriétaire supporte la perte de sa chose, **Yaralma supporte tous les risques jusqu'à la remise** : mort, maladie, blessure, vol, fuite, amaigrissement [À FAIRE VALIDER PAR UN AVOCAT]. Ces risques passent au client à la remise du mouton, constatée par la signature du bon de remise (article 11).
+3.3. **Risques.** Par dérogation à la règle selon laquelle le propriétaire supporte la perte de sa chose, **Yaralma supporte tous les risques jusqu'à la remise** : mort, maladie, blessure, vol, fuite, amaigrissement [À FAIRE VALIDER PAR UN AVOCAT]. Ces risques passent au client à la remise du mouton, constatée par votre code de remise (article 11).
 
 3.4. **Preuve de propriété.** Le numéro de boucle, le bon de commande et l'historique des vidéos font foi entre les parties. Ils permettent d'établir que l'animal vous appartient, notamment face aux tiers.
 
@@ -108,13 +108,13 @@ Dans ces conditions, « **Yaralma** » désigne la société ci-dessus. « **Vou
 
 4.1 bis. **Ce que montre le catalogue.** La carte de chaque mouton indique son nom, son lieu (par exemple Thiès, jamais le village), son prix par mois et la durée, et en petits caractères le premier acompte. **Le total n'est pas sur la carte : il est écrit sur la fiche du mouton et avant le paiement.** Exemple, un Standard à 275 000 FCFA reçu dans 12 mois : 22 000 FCFA par mois sur 11 mois, 1er acompte 59 800 FCFA ; sur la fiche, total 299 000 FCFA, garde comprise, hors livraison et frais d'engagement. La garantie remplacement n'entre dans aucun de ces prix (article 10.2 bis). [À FAIRE VALIDER PAR UN AVOCAT]
 
-> [À FAIRE VALIDER PAR UN AVOCAT] Afficher un prix mensuel et un acompte sans le total sur la carte, le total étant sur la fiche : est-ce conforme, au Sénégal et en France (code de la consommation, prix et publicité) ? [À TRANCHER par le fondateur : la carte compte-t-elle la livraison et les frais d'engagement, ou dit-elle « hors livraison et frais » ? L'acompte de l'article 5.1 les compte : sans cela, le premier acompte de la carte est plus bas que celui du paiement.]
+> [À FAIRE VALIDER PAR UN AVOCAT] Afficher un prix mensuel et un acompte sans le total sur la carte, le total étant sur la fiche : est-ce conforme, au Sénégal et en France (code de la consommation, prix et publicité) ? Tranché par le fondateur le 6 novembre 2026 : la carte compte les frais d'engagement et dit « hors livraison » tant que la région du client est inconnue.
 
 4.2. **Repères de la saison 2027** (hypothèses du modèle pour la Tabaski, à confirmer avant ouverture). Ces repères ne fixent le prix d'aucun mouton : seul compte le prix affiché sur sa fiche.
 
 | Gamme | Profil | Prix courant, selon le mouton (FCFA, TTC) | Prix diaspora tout compris, selon le mouton (€) |
 |---|---|---|---|
-| Essentiel (lots d'entreprises et sur demande) | Peul-peul ou croisé | autour de 200 000 | autour de 344 |
+| Essentiel | Peul-peul ou croisé | autour de 200 000 | autour de 344 |
 | Standard | Touabire ou croisé | autour de 275 000 | autour de 494 |
 | Premium | Touabire ou Bali-Bali grand format | autour de 445 000 | autour de 754 |
 
@@ -136,13 +136,12 @@ Aucun mouton n'est vendu sous le minimum de sa gamme : 185 000, 260 000 et 425 0
 | Livraison par un livreur partenaire, selon la distance | selon la **grille publiée** (annexe : 3 000 FCFA + 150 FCFA par kilomètre jusqu'à 100 km, puis 60 FCFA par kilomètre, minimum 5 000, arrondi aux 500 FCFA ; par exemple 7 000 FCFA d'une bergerie de Keur Massar à Dakar ville) |
 | Livraison la veille de la remise (Tabaski ou date précise, pas pour un mois) | + 5 000 en plus de la livraison |
 | Boucher réservé le matin de la fête ou de la date choisie (article 13 ; pas pour un mois) | 15 000 |
-| Kit de fête livré avec le mouton (article 13 bis) | 30 000 |
 | Garde au-delà de 4 mois (article 4.3 ter) | 2 000 (Essentiel), 3 000 (Standard), 4 500 (Premium), par mois en plus |
 | Garantie remplacement, facultative, proposée à l'étape de paiement, jamais cochée d'office (article 10.2 bis) | 4 000 (Essentiel), 5 500 (Standard), 8 800 (Premium) |
 
 Le prix diaspora en euros comprend le mouton, la vidéo de remise, les frais de carte et la livraison à l'adresse indiquée au Sénégal, la vôtre ou celle d'un proche (article 14.1), jusqu'à 7 000 FCFA de grille. Au-delà, la différence s'ajoute, convertie et arrondie aux 5 € supérieurs. [À FAIRE VALIDER PAR UN AVOCAT] Les options « veille » et « boucher » restent en supplément.
 
-4.3 bis. **Avoir de fidélité.** Si vous passez une nouvelle commande avant le 15 janvier de l'année suivante, Yaralma déduit 5 000 FCFA de son prix. Cet avoir ne se rembourse pas et ne se transforme pas en argent. [À FAIRE VALIDER PAR UN AVOCAT]
+4.3 bis. **Avoir de fidélité** : pas cette saison (décision du fondateur, 6 novembre 2026).
 
 4.3 ter. **Garde de votre mouton.** Nourrir, abriter et soigner votre mouton jusqu'à la remise a un coût. Les 4 premiers mois sont compris dans le prix. Ensuite, la garde dépend de la date de remise que vous choisissez. Elle est la même si vous payez en une fois ou en plusieurs fois. Elle ne change pas si vous payez plus tôt ou plus tard. Si vous êtes en retard, elle n'augmente pas. Si vous avancez la date de remise, nous la recalculons selon la date réelle. Elle figure sur une ligne à part : « Garde : 8 mois en plus × 3 000 FCFA ». Le prix du mouton, lui, ne bouge pas. Montants proposés, sans mesure. [À FAIRE VALIDER PAR UN AVOCAT : prix de service et non coût de crédit ; intérêts sur une garde payée d'avance, COCC 310 et, en France, L214-2 ; coût réel à pouvoir montrer.]
 
@@ -185,7 +184,7 @@ Le nombre de mensualités possible dépend de votre date de remise et de la dur�
 
 - Vous payez **uniquement** sur les comptes marchands de Yaralma SUARL (Wave Business, carte bancaire). Une entreprise peut payer par virement, selon une convention écrite. **Jamais** à un éleveur, à un livreur, à un employé ni sur un numéro personnel. Les numéros officiels sont publiés sur le site et vérifiables dans l'application ; tout autre numéro est une fraude.
 - Les paiements des clients sont reversés sur un **compte bancaire dédié aux commandes**, séparé du compte d'exploitation. [À N'INSÉRER QU'APRÈS MISE EN PLACE RÉELLE : double validation par la banque ; attestations d'un expert-comptable.]
-- L'éleveur est payé **par Yaralma**, en quatre étapes : après votre délai sans frais et le contrôle sur place, quand vous avez versé au moins 25 % du prix ; quand vous avez versé 55 % du prix et qu'une vidéo est validée [À FAIRE VALIDER PAR UN AVOCAT] ; à la collecte, quand vous avez tout payé (ou à la remise, en cas de retrait par exception) ; et une dernière part après la remise et 72 heures sans réclamation. Si vous payez une garde, une part lui est versée chaque mois, sur preuve de la vidéo du mois. Votre espace de suivi indique à tout moment ce que vous avez payé, ce qu'il reste à payer, les preuves publiées et les dates. Les montants versés à l'éleveur ne sont pas affichés.
+- L'éleveur est payé **par Yaralma**, en quatre étapes : après votre délai sans frais et le contrôle sur place, quand vous avez versé au moins 25 % du prix ; quand vous avez versé 55 % du prix et qu'une vidéo est validée [À FAIRE VALIDER PAR UN AVOCAT] ; à la collecte, quand vous avez tout payé (ou à la remise, si vous vous occupez du transport) ; et une dernière part après la remise et 72 heures sans réclamation. Si vous payez une garde, une part lui est versée chaque mois, sur preuve de la vidéo du mois. Votre espace de suivi indique à tout moment ce que vous avez payé, ce qu'il reste à payer, les preuves publiées et les dates. Les montants versés à l'éleveur ne sont pas affichés.
 - [À N'INSÉRER QU'APRÈS SIGNATURE DE LA CONVENTION] **Fonds de garantie** : Yaralma constitue, **avant l'ouverture des commandes**, un fonds de **[MONTANT selon le plafond retenu]** sur ses fonds propres, bloqué chez [À COMPLÉTER : banque ou notaire], qui sert exclusivement à payer les remboursements et dédommagements dus au titre des articles 10, 11 et 12 si Yaralma ne les payait pas dans les **14 jours**. Les conditions de mise en jeu sont publiées.
 - Yaralma vend un animal déterminé ; elle ne reçoit pas de fonds en dépôt et ne fournit aucun service de paiement. [À FAIRE VALIDER PAR UN AVOCAT : convention du fonds de garantie]
 
@@ -216,7 +215,7 @@ Le nombre de mensualités possible dépend de votre date de remise et de la dur�
 
 7.1. **Fin de la réservation.** Si la mise en demeure reste sans effet, Yaralma vous notifie par écrit la fin de la réservation. Le contrat est alors **résolu de plein droit**, sans procédure judiciaire. La propriété du mouton revient à Yaralma. Rien n'est rendu à ce moment : le compte se fait selon l'article 7.3 ou 7.4. [À FAIRE VALIDER PAR UN AVOCAT]
 
-7.2. **Remise en vente.** Après cette notification, Yaralma remet le mouton en vente au même prix. Sans preneur 30 jours avant le début de la fenêtre de remise, le prix baisse de 10 %. Sans preneur 14 jours avant, il baisse de 20 %, et la reprise du mouton est proposée à l'éleveur. Yaralma vous informe de la revente. Hypothèses, à régler après les premiers cas. [À FAIRE VALIDER PAR UN AVOCAT]
+7.2. **Remise en vente.** Après cette notification, Yaralma remet le mouton en vente au même prix. Sans preneur 30 jours avant le début de la fenêtre de remise, le prix baisse de 10 %. Sans preneur 14 jours avant, il baisse de 20 %. Yaralma vous informe de la revente. Hypothèses, à régler après les premiers cas. [À FAIRE VALIDER PAR UN AVOCAT]
 
 7.3. **Le compte de sortie.** Une fois le mouton revendu, Yaralma garde **le plus élevé** de ces deux montants :
 
@@ -237,7 +236,7 @@ Jamais les deux, et jamais plus que ce que vous avez versé. Yaralma vous envoie
 
 ## Article 8. Changer d'avis (client résidant au Sénégal)
 
-8.1. **Après votre commande.** Vous avez 7 jours ouvrés après la confirmation écrite pour annuler, sans donner de raison. Yaralma vous rend tout, frais d'engagement compris, sous 14 jours, par le même moyen de paiement. [À FAIRE VALIDER PAR UN AVOCAT]
+8.1. **Après votre commande.** Vous avez 7 jours ouvrés après votre commande pour annuler, sans donner de raison. Yaralma vous rend tout, frais d'engagement compris, sous 14 jours, par le même moyen de paiement. [À FAIRE VALIDER PAR UN AVOCAT]
 
 8.2. **Ensuite, la vente est ferme,** pour vous comme pour Yaralma. Vous ne pouvez plus demander le remboursement de vos versements. Si vous ne pouvez plus aller au bout, vous pouvez céder votre mouton, reporter sur une autre date ou un autre mouton, ou le remettre en vente (article 9).
 
@@ -313,7 +312,7 @@ Après le délai de l'article 8, **aucun remboursement n'a lieu à la demande**.
 
 - **l'identité** : la boucle correspond au bon de commande ;
 - **le bon état** : le mouton est en bonne santé et visiblement en bon état (article 11.1 bis) [À FAIRE VALIDER PAR UN AVOCAT] ;
-- **la santé** : le mouton a été vu par un vétérinaire avant son départ de la bergerie ;
+- **la santé** : le mouton est regardé par l'agent ou le livreur à la collecte. Un vétérinaire n'intervient pas à chaque départ : seulement en cas de doute sur sa santé, de maladie, de mort ou de désaccord, ou à votre demande si vous avez un doute. Cette demande passe par l'équipe de Yaralma, qui cherche un vétérinaire disponible dans la région : il n'y en a pas partout. Si le vétérinaire trouve un problème, Yaralma paie la visite. Sinon, elle est à votre charge, au prix annoncé avant la visite. [À FAIRE VALIDER PAR UN AVOCAT] ;
 - **l'intégrité** : ni ventre gonflé artificiellement, ni oreilles ou queue recollées ou modifiées.
 
 11.1 bis. **Ce qu'est un mouton en bon état.** C'est le contraire des signes de l'article 11.3 : il n'a pas de blessure, il ne boite pas, il n'a pas l'air malade ni abattu, et il n'a pas de maigreur marquée (côtes, colonne et os des hanches qui ressortent nettement à la vue). **Il n'y a ni chiffre ni balance :** on se fie aux vidéos et à ce qu'on voit, et au vétérinaire en cas de doute, si on en trouve un. Vous ne pouvez pas refuser un mouton en bon état parce que vous l'imaginiez plus grand ou plus lourd. [À FAIRE VALIDER PAR UN AVOCAT]
@@ -325,10 +324,9 @@ Après le délai de l'article 8, **aucun remboursement n'a lieu à la demande**.
 1. vous vérifiez la boucle ;
 2. vous regardez l'animal, avant de donner votre code, et vous pouvez le comparer à ses vidéos dans votre espace de suivi. Le livreur n'a pas de balance [À FAIRE VALIDER PAR UN AVOCAT] ;
 3. vous pouvez prendre des **photos et une vidéo** ;
-4. vous signez le **bon de remise** et vous y écrivez vos éventuelles réserves ;
-5. vous donnez au livreur votre **code de remise à 6 chiffres**, obtenu dans votre espace de suivi (si un proche reçoit le mouton pour vous, vous lui transmettez ce code). Ce code vaut confirmation de la remise : ne le donnez qu'après avoir vérifié la boucle. Si vous signalez un signe de l'article 11.3, le code attend la décision de l'équipe. [À FAIRE VALIDER PAR UN AVOCAT]
+4. vous donnez au livreur votre **code de remise à 6 chiffres**, obtenu dans votre espace de suivi (si un proche reçoit le mouton pour vous, vous lui transmettez ce code). Ce code vaut confirmation de la remise : ne le donnez qu'après avoir vérifié la boucle. Si vous signalez un signe de l'article 11.3, le code attend la décision de l'équipe. [À FAIRE VALIDER PAR UN AVOCAT]
 
-11.3. **Refuser à la porte.** Vous pouvez demander à refuser le mouton, avant de donner votre code, seulement sur l'un de ces signes visibles : ce n'est pas le bon mouton, blessure, boiterie, malade, abattement, maigreur marquée. **Une photo ou une vidéo est obligatoire.** Écrivez-le aussi sur le bon de remise. [À FAIRE VALIDER PAR UN AVOCAT]
+11.3. **Refuser à la porte.** Vous pouvez demander à refuser le mouton, avant de donner votre code, seulement sur l'un de ces signes visibles : ce n'est pas le bon mouton, blessure, boiterie, malade, abattement, maigreur marquée. **Une photo ou une vidéo est obligatoire.** [À FAIRE VALIDER PAR UN AVOCAT]
 
 **C'est l'équipe de Yaralma qui tranche,** ni vous seul, ni le livreur, avec le vétérinaire en cas de doute, si on en trouve un. Votre code de remise attend sa décision. Si un proche reçoit le mouton sans avoir de compte, il passe par le livreur ou l'agent, qui transmettent sans décider. [À FAIRE VALIDER PAR UN AVOCAT]
 
@@ -350,7 +348,7 @@ Il n'y a pas de réduction du prix. [À FAIRE VALIDER PAR UN AVOCAT]
 
 11.5. Une fois la remise faite, l'animal est sous votre garde : alimentation, eau, abri, surveillance. Yaralma n'est pas responsable d'un accident, d'une fuite ou d'un vol survenus chez vous.
 
-11.6. **Comment réclamer** : par écrit (WhatsApp, SMS ou courriel) à [À COMPLÉTER : numéro et adresse du service client], avec le numéro de boucle, les photos et le bon de remise. Yaralma répond **sous 24 heures** pendant la semaine de livraison et sous 3 jours ouvrés le reste de l'année.
+11.6. **Comment réclamer** : par écrit (WhatsApp, SMS ou courriel) à [À COMPLÉTER : numéro et adresse du service client], avec le numéro de boucle et les photos. Yaralma répond **sous 24 heures** pendant la semaine de livraison et sous 3 jours ouvrés le reste de l'année.
 
 ## Article 11 bis. Vous le voyez grandir : ce à quoi Yaralma s'engage
 
@@ -366,13 +364,17 @@ Il n'y a pas de réduction du prix. [À FAIRE VALIDER PAR UN AVOCAT]
 
 12.1. **La livraison est le mode normal de remise**, au prix de la grille publiée (annexe). **Zones de livraison** : les 14 régions du Sénégal, la région de Dakar étant découpée en Dakar ville, banlieue, Rufisque et Diamniadio. Le prix de livraison est toujours affiché sur la fiche du mouton avant la commande. Un mouton n'est publié que s'il existe un livreur actif pour sa région. [À FAIRE VALIDER PAR UN AVOCAT] [À COMPLÉTER après les devis de transport.]
 
-12.2. **Créneaux.** La livraison a lieu dans la fenêtre de remise, dans un **créneau de 2 heures** que vous choisissez dans votre espace de suivi, au plus tard à la date limite du solde. Pour la Tabaski 2027 : entre le **7 et le 15 mai 2027** (J-10 à J-2), avec un choix à partir du 1er avril et au plus tard le 30 avril 2027. Sans choix de votre part, Yaralma vous propose un créneau par téléphone. La veille, Yaralma vous envoie le nom et le numéro du livreur. Vous recevez un message 30 minutes avant l'arrivée.
+12.1 bis. **Deux façons de recevoir votre mouton, à choisir à la commande.** **Yaralma vous le livre** : au prix de la grille, affiché avant la commande. **Vous vous occupez du transport** : vous ne payez pas de livraison. Vous venez à la bergerie, ou vous y envoyez la personne de votre choix, sur rendez-vous pris depuis votre suivi, une fois le mouton entièrement payé. L'adresse de la bergerie apparaît à ce moment. Vous vérifiez la boucle et l'état du mouton avant de donner votre code de remise, et vous pouvez refuser selon l'article 11.3. **Une fois le code donné, les risques sont à votre charge, y compris pendant le transport que vous organisez.** Les documents exigés pour déplacer le mouton : [À VÉRIFIER auprès des services vétérinaires]. [À FAIRE VALIDER PAR UN AVOCAT]
+
+12.2. **Créneaux.** La livraison a lieu dans la fenêtre de remise, dans un **créneau de 2 heures** que vous choisissez dans votre espace de suivi, au plus tard à la date limite du solde. Pour la Tabaski 2027 : entre le **7 et le 15 mai 2027** (J-10 à J-2), avec un choix à partir du 1er avril et au plus tard le 30 avril 2027. Sans choix de votre part, Yaralma vous propose un créneau par téléphone. La veille, Yaralma vous envoie le nom et le numéro du livreur.
 
 12.3. **Option « veille »** (+ 5 000 FCFA, Tabaski ou date précise, pas pour un mois) : livraison la veille de la date, soit le **16 mai 2027** (J-1) pour la Tabaski 2027, en nombre limité. Si la date officielle de la Tabaski est fixée à un autre jour par les autorités religieuses, les dates de livraison sont décalées d'autant, et Yaralma vous en informe dès l'annonce.
 
-12.4. **Retrait chez l'éleveur** : il n'est pas proposé pendant la saison 2027. Yaralma peut l'accorder par écrit, à titre exceptionnel, pour un numéro et un mouton : il est alors gratuit, sur rendez-vous organisé par Yaralma depuis votre espace de suivi, à la bergerie indiquée sur votre fiche après votre acompte. Vous vérifiez la boucle sur place et donnez votre code de remise à l'éleveur, qui le transmet à Yaralma.
+12.4. **Si vous vous occupez du transport**, le rendez-vous à la bergerie est organisé par Yaralma depuis votre espace de suivi. Vous donnez votre code de remise à l'éleveur, qui le transmet à Yaralma.
 
 12.4 bis. **Interlocuteur** : Yaralma reste votre seul interlocuteur et responsable de la remise (articles 10 à 12), y compris en cas de retard, de panne ou d'incident pendant la course. Vous n'avez jamais à régler cela avec le livreur. Vous ne payez rien à l'éleveur ni au livreur. **Le jour de la course**, le livreur reçoit votre adresse et votre numéro. Il ne les voit plus une fois la course finie. [À FAIRE VALIDER PAR UN AVOCAT]
+
+12.4 ter. **Si un problème arrive pendant la livraison par Yaralma.** Yaralma en répond seule : vous n'avez rien à régler avec le livreur. Si le mouton est blessé, malade, mort, perdu ou volé pendant la course, vous choisissez : un autre mouton équivalent s'il peut vous être remis à temps, ou le remboursement de tout ce que vous avez payé, sous 14 jours. S'il est blessé ou malade, vous pouvez aussi le garder si vous le souhaitez : la livraison vous est remboursée et le prix est réduit de 10 %. Pour un petit souci, si le mouton va bien, la livraison vous est remboursée. [À FAIRE VALIDER PAR UN AVOCAT ; à faire relire par l'imam référent : un mouton blessé convient-il encore pour le sacrifice ?]
 
 12.5. **Retard de Yaralma.** **La règle vaut dans les deux sens** : si Yaralma manque à sa parole, l'indemnité est de même niveau que ce qu'elle garde quand le client part. Si le livreur a plus de 30 minutes de retard sur le créneau, la livraison vous est remboursée. Si votre mouton n'est pas livré à la date prévue, et au plus tard la veille de la fête, ou, pour une autre occasion, au plus tard le dernier jour de la fenêtre de remise, par la faute de Yaralma, vous êtes remboursé **intégralement**, plus un **dédommagement égal à l'acompte de votre commande**, sous 14 jours. [À FAIRE VALIDER PAR UN AVOCAT : réciprocité, loi n° 2021-25, art. 18.6 ; l'ancien texte prévoyait 10 %.]
 
@@ -392,9 +394,9 @@ Il n'y a pas de réduction du prix. [À FAIRE VALIDER PAR UN AVOCAT]
 
 > [À FAIRE VALIDER PAR UN AVOCAT et par la Direction des services vétérinaires] (1) Le circuit financier : Yaralma encaisse 15 000 FCFA et paie le boucher. Il faut décider si Yaralma revend une prestation (elle en devient alors responsable vis-à-vis du client, malgré la clause 13.3) ou si elle agit comme simple intermédiaire (risque d'encaissement pour le compte d'un tiers). (2) La validité de la limitation de responsabilité de l'article 13.3 face à un consommateur. (3) Les règles d'hygiène et de sécurité applicables à un abattage familial à domicile assisté par un professionnel.
 
-## Article 13 bis. Kit de fête (option)
+## Article 13 bis. Kit de fête
 
-Yaralma peut livrer avec votre mouton un kit de fête (par exemple oignons, pommes de terre, charbon, condiments), au prix affiché. Le contenu exact figure sur votre bon de commande. [À FAIRE VALIDER PAR UN AVOCAT] : responsabilité sur des denrées, règles d'hygiène, TVA.
+Le kit de fête n'est pas cette saison (décision du fondateur, 6 novembre 2026).
 
 ## Article 13 ter. Discussion sur la plateforme et visites
 
@@ -419,7 +421,9 @@ Yaralma peut livrer avec votre mouton un kit de fête (par exemple oignons, pomm
 - **Moi, à mon retour :** vous indiquez vos propres coordonnées au Sénégal, et votre date de réception correspond à votre retour (article 2 bis).
 - **Un proche au Sénégal :** vous restez **le client et le propriétaire** du mouton. Le bénéficiaire le reçoit **en votre nom**. Vous indiquez à la commande son nom, son téléphone, son adresse et une personne de secours.
 
-14.2. **Remise à un proche.** Le bénéficiaire, ou la personne de secours, signe le bon de remise et peut émettre des réserves (article 11). Sa signature vaut remise au client. Yaralma vous envoie la **vidéo de remise** (avec l'accord des personnes filmées).
+14.1 bis. **Client résidant au Sénégal.** À la commande, vous répondez : « Moi » ou « Un proche ». Si vous répondez « Moi », rien de plus ne vous est demandé. Si vous répondez « Un proche », vous restez le client et le propriétaire du mouton, le bénéficiaire le reçoit en votre nom, et vous indiquez son nom, son téléphone, son adresse et une personne de secours ; l'article 14.6 s'applique. [À FAIRE VALIDER PAR UN AVOCAT]
+
+14.2. **Remise à un proche.** Le bénéficiaire, ou la personne de secours, vérifie le mouton et donne le code de remise (article 11). Ce code vaut remise au client. Yaralma vous envoie la **vidéo de remise** (avec l'accord des personnes filmées).
 
 14.3. **Paiement en euros.** Le prix diaspora est **fixé en euros, tout compris** (article 4.2). Vous payez par carte bancaire via Flutterwave. Yaralma reçoit l'équivalent en FCFA. Le franc CFA ayant une parité fixe avec l'euro (1 € = 655,957 FCFA), **le prix en euros ne change pas**, sauf le supplément de livraison éventuel, arrêté à la commande (article 4.3).
 
