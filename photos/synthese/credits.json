@@ -401,5 +401,18 @@
   "outil": "ChatGPT Images",
   "source_locale": "29_xar_belier_rue_face.png",
   "largeur_source": 1536
+ },
+ {
+  "fichier": "touabire-belier-abreuvoir.webp",
+  "fichier_600": "touabire-belier-abreuvoir-600.webp",
+  "race_visee": "Touabire",
+  "sujet": "bélier",
+  "decor": "abreuvoir",
+  "gamme_demo": "Standard",
+  "synthese": true,
+  "legende": "Image de synthèse, pas un animal de notre catalogue",
+  "outil": "ChatGPT Images",
+  "source_locale": "remplacée par la version suivante du même nom",
+  "largeur_source": 1536
  }
 ]
