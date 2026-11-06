@@ -4,415 +4,319 @@
   "fichier_600": "ladoum-belier-cour-600.webp",
   "race_visee": "Ladoum",
   "sujet": "bélier",
-  "decor": "cour",
   "gamme_demo": "Premium",
   "synthese": true,
   "legende": "Image de synthèse, pas un animal de notre catalogue",
-  "outil": "ChatGPT Images",
-  "source_locale": "01_ladoum_belier_cour_3q.png",
-  "largeur_source": 1448
+  "outil": "ChatGPT Images"
  },
  {
   "fichier": "ladoum-belier-bergerie.webp",
   "fichier_600": "ladoum-belier-bergerie-600.webp",
   "race_visee": "Ladoum",
   "sujet": "bélier",
-  "decor": "bergerie",
   "gamme_demo": "Premium",
   "synthese": true,
   "legende": "Image de synthèse, pas un animal de notre catalogue",
-  "outil": "ChatGPT Images",
-  "source_locale": "02_ladoum_belier_bergerie_profil.png",
-  "largeur_source": 1448
+  "outil": "ChatGPT Images"
  },
  {
   "fichier": "ladoum-belier-baobab.webp",
   "fichier_600": "ladoum-belier-baobab-600.webp",
   "race_visee": "Ladoum",
   "sujet": "bélier",
-  "decor": "baobab",
   "gamme_demo": "Premium",
   "synthese": true,
   "legende": "Image de synthèse, pas un animal de notre catalogue",
-  "outil": "ChatGPT Images",
-  "source_locale": "03_ladoum_belier_baobab_gauche.png",
-  "largeur_source": 1536
+  "outil": "ChatGPT Images"
  },
  {
   "fichier": "ladoum-belier-plage.webp",
   "fichier_600": "ladoum-belier-plage-600.webp",
   "race_visee": "Ladoum",
   "sujet": "bélier",
-  "decor": "plage",
   "gamme_demo": "Premium",
   "synthese": true,
   "legende": "Image de synthèse, pas un animal de notre catalogue",
-  "outil": "ChatGPT Images",
-  "source_locale": "31_ladoum_belier_plage_droite.png",
-  "largeur_source": 1536
+  "outil": "ChatGPT Images"
  },
  {
   "fichier": "ladoum-jeune-terrain.webp",
   "fichier_600": "ladoum-jeune-terrain-600.webp",
   "race_visee": "Ladoum",
   "sujet": "jeune bélier",
-  "decor": "terrain",
   "gamme_demo": "Standard",
   "synthese": true,
   "legende": "Image de synthèse, pas un animal de notre catalogue",
-  "outil": "ChatGPT Images",
-  "source_locale": "04_ladoum_jeune_thies_profil.png",
-  "largeur_source": 1448
+  "outil": "ChatGPT Images"
  },
  {
   "fichier": "ladoum-brebis-bergerie.webp",
   "fichier_600": "ladoum-brebis-bergerie-600.webp",
   "race_visee": "Ladoum",
   "sujet": "brebis",
-  "decor": "bergerie",
   "gamme_demo": "Premium",
   "synthese": true,
   "legende": "Image de synthèse, pas un animal de notre catalogue",
-  "outil": "ChatGPT Images",
-  "source_locale": "05_ladoum_brebis_bergerie_3q.png",
-  "largeur_source": 1448
+  "outil": "ChatGPT Images"
  },
  {
   "fichier": "ladoum-brebis-mur.webp",
   "fichier_600": "ladoum-brebis-mur-600.webp",
   "race_visee": "Ladoum",
   "sujet": "brebis",
-  "decor": "mur",
   "gamme_demo": "Premium",
   "synthese": true,
   "legende": "Image de synthèse, pas un animal de notre catalogue",
-  "outil": "ChatGPT Images",
-  "source_locale": "06_ladoum_brebis_mur_profil.png",
-  "largeur_source": 1448
+  "outil": "ChatGPT Images"
  },
  {
   "fichier": "touabire-belier-fleuve.webp",
   "fichier_600": "touabire-belier-fleuve-600.webp",
   "race_visee": "Touabire",
   "sujet": "bélier",
-  "decor": "fleuve",
   "gamme_demo": "Standard",
   "synthese": true,
   "legende": "Image de synthèse, pas un animal de notre catalogue",
-  "outil": "ChatGPT Images",
-  "source_locale": "07_touabire_belier_fleuve_droite.png",
-  "largeur_source": 1536
+  "outil": "ChatGPT Images"
  },
  {
   "fichier": "touabire-belier-marche.webp",
   "fichier_600": "touabire-belier-marche-600.webp",
   "race_visee": "Touabire",
   "sujet": "bélier",
-  "decor": "foirail",
   "gamme_demo": "Standard",
   "synthese": true,
   "legende": "Image de synthèse, pas un animal de notre catalogue",
-  "outil": "ChatGPT Images",
-  "source_locale": "08_touabire_belier_marche_face.png",
-  "largeur_source": 1536
+  "outil": "ChatGPT Images"
  },
  {
   "fichier": "touabire-belier-paturage.webp",
   "fichier_600": "touabire-belier-paturage-600.webp",
   "race_visee": "Touabire",
   "sujet": "bélier",
-  "decor": "pâturage",
   "gamme_demo": "Standard",
   "synthese": true,
   "legende": "Image de synthèse, pas un animal de notre catalogue",
-  "outil": "ChatGPT Images",
-  "source_locale": "09_touabire_belier_paturage_marche.png",
-  "largeur_source": 1536
+  "outil": "ChatGPT Images"
  },
  {
   "fichier": "touabire-belier-plage.webp",
   "fichier_600": "touabire-belier-plage-600.webp",
   "race_visee": "Touabire",
   "sujet": "bélier",
-  "decor": "plage",
   "gamme_demo": "Standard",
   "synthese": true,
   "legende": "Image de synthèse, pas un animal de notre catalogue",
-  "outil": "ChatGPT Images",
-  "source_locale": "10_touabire_belier_plage_gauche.png",
-  "largeur_source": 1536
+  "outil": "ChatGPT Images"
  },
  {
   "fichier": "bali-belier-saint-louis.webp",
   "fichier_600": "bali-belier-saint-louis-600.webp",
   "race_visee": "Bali-Bali",
   "sujet": "bélier",
-  "decor": "Saint-Louis",
   "gamme_demo": "Premium",
   "synthese": true,
   "legende": "Image de synthèse, pas un animal de notre catalogue",
-  "outil": "ChatGPT Images",
-  "source_locale": "13_bali_belier_saintlouis_gauche.png",
-  "largeur_source": 1536
+  "outil": "ChatGPT Images"
  },
  {
   "fichier": "bali-belier-cour.webp",
   "fichier_600": "bali-belier-cour-600.webp",
   "race_visee": "Bali-Bali",
   "sujet": "bélier",
-  "decor": "cour",
   "gamme_demo": "Standard",
   "synthese": true,
   "legende": "Image de synthèse, pas un animal de notre catalogue",
-  "outil": "ChatGPT Images",
-  "source_locale": "14_bali_belier_terrasse_face.png",
-  "largeur_source": 1536
+  "outil": "ChatGPT Images"
  },
  {
   "fichier": "bali-belier-collines.webp",
   "fichier_600": "bali-belier-collines-600.webp",
   "race_visee": "Bali-Bali",
   "sujet": "bélier",
-  "decor": "collines",
   "gamme_demo": "Premium",
   "synthese": true,
   "legende": "Image de synthèse, pas un animal de notre catalogue",
-  "outil": "ChatGPT Images",
-  "source_locale": "16_bali_belier_plage2_droite.png",
-  "largeur_source": 1536
+  "outil": "ChatGPT Images"
  },
  {
   "fichier": "bali-jeune-chemin.webp",
   "fichier_600": "bali-jeune-chemin-600.webp",
   "race_visee": "Bali-Bali",
   "sujet": "jeune bélier",
-  "decor": "chemin",
   "gamme_demo": "Standard",
   "synthese": true,
   "legende": "Image de synthèse, pas un animal de notre catalogue",
-  "outil": "ChatGPT Images",
-  "source_locale": "17_bali_jeune_route_face.png",
-  "largeur_source": 1536
+  "outil": "ChatGPT Images"
  },
  {
   "fichier": "bali-brebis-agneau.webp",
   "fichier_600": "bali-brebis-agneau-600.webp",
   "race_visee": "Bali-Bali",
   "sujet": "brebis et agneau",
-  "decor": "latérite",
   "gamme_demo": "Standard",
   "synthese": true,
   "legende": "Image de synthèse, pas un animal de notre catalogue",
-  "outil": "ChatGPT Images",
-  "source_locale": "18_bali_brebis_tamba_face.png",
-  "largeur_source": 1536
+  "outil": "ChatGPT Images"
  },
  {
   "fichier": "peul-belier-chemin.webp",
   "fichier_600": "peul-belier-chemin-600.webp",
   "race_visee": "Peul-peul",
   "sujet": "bélier",
-  "decor": "chemin",
   "gamme_demo": "Essentiel",
   "synthese": true,
   "legende": "Image de synthèse, pas un animal de notre catalogue",
-  "outil": "ChatGPT Images",
-  "source_locale": "19_peul_belier_route_gauche.png",
-  "largeur_source": 1536
+  "outil": "ChatGPT Images"
  },
  {
   "fichier": "peul-belier-laterite.webp",
   "fichier_600": "peul-belier-laterite-600.webp",
   "race_visee": "Peul-peul",
   "sujet": "bélier",
-  "decor": "latérite",
   "gamme_demo": "Essentiel",
   "synthese": true,
   "legende": "Image de synthèse, pas un animal de notre catalogue",
-  "outil": "ChatGPT Images",
-  "source_locale": "20_peul_belier_tamba_face.png",
-  "largeur_source": 1536
+  "outil": "ChatGPT Images"
  },
  {
   "fichier": "peul-belier-saloum.webp",
   "fichier_600": "peul-belier-saloum-600.webp",
   "race_visee": "Peul-peul",
   "sujet": "bélier",
-  "decor": "Saloum",
   "gamme_demo": "Essentiel",
   "synthese": true,
   "legende": "Image de synthèse, pas un animal de notre catalogue",
-  "outil": "ChatGPT Images",
-  "source_locale": "21_peul_belier_saloum_marche.png",
-  "largeur_source": 1536
+  "outil": "ChatGPT Images"
  },
  {
   "fichier": "peul-jeune-cour.webp",
   "fichier_600": "peul-jeune-cour-600.webp",
   "race_visee": "Peul-peul",
   "sujet": "jeune bélier",
-  "decor": "cour",
   "gamme_demo": "Essentiel",
   "synthese": true,
   "legende": "Image de synthèse, pas un animal de notre catalogue",
-  "outil": "ChatGPT Images",
-  "source_locale": "22_peul_jeune_cour_droite.png",
-  "largeur_source": 1536
+  "outil": "ChatGPT Images"
  },
  {
   "fichier": "peul-brebis-abreuvoir.webp",
   "fichier_600": "peul-brebis-abreuvoir-600.webp",
   "race_visee": "Peul-peul",
   "sujet": "brebis",
-  "decor": "abreuvoir",
   "gamme_demo": "Essentiel",
   "synthese": true,
   "legende": "Image de synthèse, pas un animal de notre catalogue",
-  "outil": "ChatGPT Images",
-  "source_locale": "23_peul_brebis_ferlo_tete_baissee.png",
-  "largeur_source": 1536
+  "outil": "ChatGPT Images"
  },
  {
   "fichier": "warale-belier-lac-rose.webp",
   "fichier_600": "warale-belier-lac-rose-600.webp",
   "race_visee": "Waralé",
   "sujet": "bélier",
-  "decor": "Lac Rose",
   "gamme_demo": "Essentiel",
   "synthese": true,
   "legende": "Image de synthèse, pas un animal de notre catalogue",
-  "outil": "ChatGPT Images",
-  "source_locale": "25_warale_belier_lacrose_gauche.png",
-  "largeur_source": 1536
+  "outil": "ChatGPT Images"
  },
  {
   "fichier": "warale-brebis-paturage.webp",
   "fichier_600": "warale-brebis-paturage-600.webp",
   "race_visee": "Waralé",
   "sujet": "brebis",
-  "decor": "pâturage",
   "gamme_demo": "Essentiel",
   "synthese": true,
   "legende": "Image de synthèse, pas un animal de notre catalogue",
-  "outil": "ChatGPT Images",
-  "source_locale": "26_warale_brebis_paturage_face.png",
-  "largeur_source": 1536
+  "outil": "ChatGPT Images"
  },
  {
   "fichier": "djallonke-belier-ziguinchor.webp",
   "fichier_600": "djallonke-belier-ziguinchor-600.webp",
   "race_visee": "Djallonké",
   "sujet": "bélier",
-  "decor": "Ziguinchor",
   "gamme_demo": "Essentiel",
   "synthese": true,
   "legende": "Image de synthèse, pas un animal de notre catalogue",
-  "outil": "ChatGPT Images",
-  "source_locale": "27_djallonke_belier_ziguinchor_droite.png",
-  "largeur_source": 1536
+  "outil": "ChatGPT Images"
  },
  {
   "fichier": "djallonke-brebis-casamance.webp",
   "fichier_600": "djallonke-brebis-casamance-600.webp",
   "race_visee": "Djallonké",
   "sujet": "brebis",
-  "decor": "Casamance",
   "gamme_demo": "Essentiel",
   "synthese": true,
   "legende": "Image de synthèse, pas un animal de notre catalogue",
-  "outil": "ChatGPT Images",
-  "source_locale": "28_djallonke_brebis_vert_face.png",
-  "largeur_source": 1536
+  "outil": "ChatGPT Images"
  },
  {
   "fichier": "sans-race-cour.webp",
   "fichier_600": "sans-race-cour-600.webp",
   "race_visee": "Sans race précise",
   "sujet": "mouton",
-  "decor": "cour",
   "gamme_demo": "Essentiel",
   "synthese": true,
   "legende": "Image de synthèse, pas un animal de notre catalogue",
-  "outil": "ChatGPT Images",
-  "source_locale": "30_xar_brebis_cour_tete_baissee.png",
-  "largeur_source": 1536
+  "outil": "ChatGPT Images"
  },
  {
   "fichier": "touabire-jeune-rue.webp",
   "fichier_600": "touabire-jeune-rue-600.webp",
   "race_visee": "Touabire",
   "sujet": "jeune bélier",
-  "decor": "rue",
   "gamme_demo": "Essentiel",
   "synthese": true,
   "legende": "Image de synthèse, pas un animal de notre catalogue",
-  "outil": "ChatGPT Images",
-  "source_locale": "11_touabire_jeune_rue_gauche.png",
-  "largeur_source": 1536
+  "outil": "ChatGPT Images"
  },
  {
   "fichier": "touabire-brebis-ferlo.webp",
   "fichier_600": "touabire-brebis-ferlo-600.webp",
   "race_visee": "Touabire",
   "sujet": "brebis",
-  "decor": "Ferlo",
   "gamme_demo": "Essentiel",
   "synthese": true,
   "legende": "Image de synthèse, pas un animal de notre catalogue",
-  "outil": "ChatGPT Images",
-  "source_locale": "12_touabire_brebis_ferlo_mange.png",
-  "largeur_source": 1536
+  "outil": "ChatGPT Images"
  },
  {
   "fichier": "bali-belier-plage.webp",
   "fichier_600": "bali-belier-plage-600.webp",
   "race_visee": "Bali-Bali",
   "sujet": "bélier",
-  "decor": "plage",
   "gamme_demo": "Premium",
   "synthese": true,
   "legende": "Image de synthèse, pas un animal de notre catalogue",
-  "outil": "ChatGPT Images",
-  "source_locale": "16_bali_belier_plage_droite.png",
-  "largeur_source": 1536
+  "outil": "ChatGPT Images"
  },
  {
   "fichier": "peul-brebis-kedougou.webp",
   "fichier_600": "peul-brebis-kedougou-600.webp",
   "race_visee": "Peul-peul",
   "sujet": "brebis",
-  "decor": "Kédougou",
   "gamme_demo": "Essentiel",
   "synthese": true,
   "legende": "Image de synthèse, pas un animal de notre catalogue",
-  "outil": "ChatGPT Images",
-  "source_locale": "24_peul_brebis_kedougou_face.png",
-  "largeur_source": 1536
+  "outil": "ChatGPT Images"
  },
  {
   "fichier": "sans-race-belier-rue.webp",
   "fichier_600": "sans-race-belier-rue-600.webp",
   "race_visee": "Sans race précise",
   "sujet": "bélier",
-  "decor": "rue",
   "gamme_demo": "Essentiel",
   "synthese": true,
   "legende": "Image de synthèse, pas un animal de notre catalogue",
-  "outil": "ChatGPT Images",
-  "source_locale": "29_xar_belier_rue_face.png",
-  "largeur_source": 1536
+  "outil": "ChatGPT Images"
  },
  {
   "fichier": "touabire-belier-abreuvoir.webp",
   "fichier_600": "touabire-belier-abreuvoir-600.webp",
   "race_visee": "Touabire",
   "sujet": "bélier",
-  "decor": "abreuvoir",
   "gamme_demo": "Standard",
   "synthese": true,
   "legende": "Image de synthèse, pas un animal de notre catalogue",
-  "outil": "ChatGPT Images",
-  "source_locale": "remplacée par la version suivante du même nom",
-  "largeur_source": 1536
+  "outil": "ChatGPT Images"
  }
 ]
