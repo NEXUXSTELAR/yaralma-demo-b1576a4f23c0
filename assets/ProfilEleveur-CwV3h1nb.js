@@ -1,1 +1,0 @@
-export{t as ListeEleveurs,n as ProfilEleveur}from"./ProfilEleveur-DP-nKDXg.js";

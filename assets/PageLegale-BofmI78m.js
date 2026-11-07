@@ -1,4 +1,4 @@
-import{r as e}from"./Confiance-BLIDcs-N.js";import{t}from"./jsx-runtime-B3vZP9zy.js";var n=`# Conditions générales de vente : Yaralma
+import{r as e}from"./Confiance-D45DTFRK.js";import{t}from"./jsx-runtime-B3vZP9zy.js";var n=`# Conditions générales de vente : Yaralma
 
 *Projet de travail du 6 novembre 2026 : pas encore relu par un avocat.*
 
