@@ -1,4 +1,4 @@
-import{r as e}from"./Confiance-DPpGol2P.js";import{t}from"./jsx-runtime-B3vZP9zy.js";var n=`# Conditions générales de vente : Yaralma
+import{r as e}from"./Confiance-BMKDdSzR.js";import{t}from"./jsx-runtime-B3vZP9zy.js";var n=`# Conditions générales de vente : Yaralma
 
 *Projet de travail du 6 novembre 2026 : pas encore relu par un avocat.*
 
@@ -10,7 +10,7 @@ import{r as e}from"./Confiance-DPpGol2P.js";import{t}from"./jsx-runtime-B3vZP9zy
 
 | Question | Réponse |
 |---|---|
-| Qu'est-ce que j'achète ? | **Un mouton précis**, déjà né, que vous choisissez sur photo et vidéo. Sa fiche dit comment il a été vérifié : « Vérifié en vidéo » ou « Vérifié sur place ». Son numéro et son identification (boucle, fiche d'identité, ou les deux) figurent sur votre bon de commande. |
+| Qu'est-ce que j'achète ? | **Un mouton précis**, déjà né, que vous choisissez sur photo et vidéo. Sa fiche indique « Vérifié par l'équipe », avec la date. Son numéro et son identification (boucle, fiche d'identité, ou les deux) figurent sur votre bon de commande. |
 | À partir de quand est-il à moi ? | **Dès que l'éleveur a confirmé la vente**, sous 24 heures après votre acompte. |
 | Pour quelle occasion ? | Tabaski, baptême, mariage, Magal, Gamou, un autre événement, ou sans occasion particulière. Vous choisissez la date ou le mois (article 2 bis). |
 | Qui s'en occupe jusqu'à la remise ? | L'éleveur indiqué sur la fiche, pour le compte de Yaralma et pour vous. |
@@ -49,7 +49,7 @@ Dans ces conditions, « **Yaralma** » désigne la société ci-dessus. « **Vou
 2.1. Yaralma vous vend **un mouton vivant, déterminé et identifié**. Il est désigné sur votre bon de commande par :
 
 - son **numéro** (format YAR-27-XXXX) et son **identification** : une boucle numérotée, une fiche d'identité (photos, signes distinctifs), ou les deux. Ce qui vaut pour votre mouton est écrit sur sa page et sur votre bon de commande. Dans ces conditions, le **repère** désigne sa boucle, ou le ruban ou collier posé par l'éleveur. ;
-- la mention **« Vérifié en vidéo »** ou **« Vérifié sur place »**, telle qu'elle est écrite sur sa fiche : une vidéo n'est jamais présentée comme une visite ;
+- la mention **« Vérifié par l'équipe »**, avec la date, telle qu'elle est écrite sur sa fiche. La façon de vérifier (appel vidéo, vidéo, visite sur place) est notée par l'équipe. Yaralma ne laisse jamais croire à une visite qui n'a pas eu lieu ;
 - sa race, son âge estimé et sa gamme (Essentiel, Standard ou Premium) ;
 - **son prix**, celui affiché sur sa fiche le jour de votre commande ;
 - l'**occasion** et la **fenêtre de remise** (article 2 bis) ;
