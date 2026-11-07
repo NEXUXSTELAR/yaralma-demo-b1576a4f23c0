@@ -1,0 +1,1 @@
+export{r as PageCompte}from"./ProfilClient-BCe-IV7P.js";
