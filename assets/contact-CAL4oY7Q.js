@@ -1,0 +1,1 @@
+var e=e=>String(e??``).replace(/\D/g,``),t=e(void 0)||void 0,n=e(void 0)||void 0,r=t,i=(e,t)=>`https://wa.me/${e}?text=${encodeURIComponent(t)}`;export{i,t as n,r,n as t};

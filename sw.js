@@ -2,7 +2,8 @@
 // Jamais les données : les appels au serveur (autre domaine) et les envois ne passent pas ici.
 // La page vient toujours du réseau d'abord : une nouvelle version n'est jamais retenue par ce cache.
 const CACHE = "yaralma-coquille-v1", MAX = 60;
-const ranger = async (c, q, r) => { await c.put(q, r); const k = await c.keys(); if (k.length > MAX) await c.delete(k[0]); };
+// Le ménage ne jette jamais la page elle-même : sans elle, plus rien hors ligne.
+const ranger = async (c, q, r) => { await c.put(q, r); const k = await c.keys(); if (k.length > MAX) await c.delete(k.find((x) => new URL(x.url).pathname !== racine().pathname)); };
 const racine = () => new URL("./", self.registration.scope);
 
 self.addEventListener("install", () => self.skipWaiting());
@@ -15,6 +16,19 @@ self.addEventListener("activate", (e) => e.waitUntil((async () => {
     if (r.ok) { const t = await r.clone().text(); await c.put(racine(), r); for (const m of t.matchAll(/(?:src|href)="\.?\/?(assets\/[^"]+)"/g)) await c.add(new URL(m[1], racine())); }
   } catch { /* hors ligne : ce sera pour la prochaine fois */ }
 })()));
+
+// Les morceaux chargés avant que ce service worker ne prenne la main : la page les donne, ils servent dès la prochaine visite hors ligne.
+self.addEventListener("message", (e) => {
+  if (e.data?.type !== "morceaux" || !Array.isArray(e.data.urls)) return;
+  e.waitUntil((async () => {
+    const c = await caches.open(CACHE);
+    for (const u of e.data.urls) {
+      const x = new URL(u, location.href);
+      if (x.origin !== location.origin || !x.pathname.includes("/assets/") || await c.match(x)) continue;
+      try { const r = await fetch(x); if (r.ok) await ranger(c, x, r); } catch { /* hors ligne : tant pis */ }
+    }
+  })());
+});
 
 self.addEventListener("fetch", (e) => {
   const q = e.request, u = new URL(q.url);
