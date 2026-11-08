@@ -1,1 +1,0 @@
-export{r as PagePiece}from"./PieceIdentite-BRZTwTIs.js";
