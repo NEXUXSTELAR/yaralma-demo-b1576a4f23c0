@@ -1,1 +1,0 @@
-export{r as PageCompte}from"./ProfilClient-C171W0Go.js";
