@@ -1,0 +1,1 @@
+export{r as PagePiece}from"./PieceIdentite-Bp4M6tLu.js";
