@@ -406,6 +406,8 @@ Le kit de fête n'est pas cette saison.
 
 13 ter.5. Les visites à la bergerie sont **organisées par Yaralma**, sur créneaux ou lors d'une journée « Bergerie ouverte ».
 
+13 ter.5 bis. **Visite d'un agent Yaralma à votre demande.** Vous pouvez demander qu'un agent Yaralma aille voir votre mouton et vous en fasse un compte rendu daté, avec photos ou vidéo. Cette visite est payée par vous, au prix indiqué avant de confirmer ; si l'agent trouve un problème, Yaralma la paie. En cas d'incident (maladie, blessure, mort, vol), Yaralma envoie un agent sur place de sa propre initiative, sans frais pour vous. **Un agent Yaralma ne vous demande jamais d'argent.**
+
 13 ter.6. Ces règles ne vous interdisent pas d'acheter un autre mouton à qui vous voulez, ailleurs que sur la plateforme.
 
 
@@ -522,7 +524,7 @@ Les traitements de Yaralma doivent être **déclarés à la Commission de protec
 | **Éleveurs** | Identité, copie de la pièce d'identité, NINEA éventuel, téléphone, numéro Wave, village et position de la bergerie, photos et vidéos des animaux | Exécuter le contrat d'embouche, payer, organiser les visites et la collecte | Exécution du contrat ; obligation légale (comptabilité) |
 | **Éleveurs** | Avant l'acompte : prénom et initiale, grande zone, faits vérifiés, photo et message vocal de présentation. Après l'acompte : nom complet et village | Présenter l'éleveur aux clients et dans la communication | **Consentement** écrit (annexe 6 du contrat éleveur) |
 | **Clients et éleveurs** | Prénom et téléphone recueillis pour discuter sans compte ; identifiant secret gardé sur l'appareil ; messages, vocaux, photos et vidéos échangés sur la plateforme ; nombre de messages bloqués et leur motif | Permettre la discussion, filtrer les numéros et les liens écrits, limiter le spam, faire respecter les règles, traiter les réclamations | |
-| **Agents de suivi, bouchers, proches en mission, second examinateur** | Identité, téléphone, numéro Wave, missions réalisées, déclaration d'intérêts chez un éleveur | Organiser et payer les missions, éviter les conflits d'intérêts | Exécution du contrat |
+| **Agents Yaralma, bouchers, proches en mission, second examinateur** | Identité, téléphone, numéro Wave, missions réalisées, déclaration d'intérêts chez un éleveur | Organiser et payer les missions, éviter les conflits d'intérêts | Exécution du contrat |
 | **Livreurs** | Candidature (nom, numéro, régions, véhicule, capacité) ; pièce d'identité, permis, carte grise, assurance et photo du véhicule, en stockage privé, chiffrées au repos, jamais visibles par le client ; dates d'expiration ; contrat signé ; courses, photos de collecte et de remise, journal des accès ; numéro Wave | Valider le livreur, organiser et payer les courses, prouver qui avait le mouton | Exécution du contrat ; obligations légales |
 | **Visiteurs du site et prospects** | Téléphone, prénom, gamme recherchée ; données techniques de navigation | Répondre aux demandes, pré-inscriptions | Consentement ; intérêt légitime |
 
