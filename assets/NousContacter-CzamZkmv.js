@@ -1,1 +1,0 @@
-export{t as PageContact}from"./NousContacter-2YpteRRf.js";

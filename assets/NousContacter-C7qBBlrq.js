@@ -1,0 +1,1 @@
+export{t as PageContact}from"./NousContacter-BoBpz9uQ.js";

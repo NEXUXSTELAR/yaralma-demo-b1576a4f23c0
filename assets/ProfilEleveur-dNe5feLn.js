@@ -1,1 +1,0 @@
-export{t as ListeEleveurs,n as ProfilEleveur}from"./ProfilEleveur-xEqM8Kqr.js";
