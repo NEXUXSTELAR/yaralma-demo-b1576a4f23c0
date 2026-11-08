@@ -1,1 +1,0 @@
-export{t as ListeEleveurs,n as ProfilEleveur}from"./ProfilEleveur-DWG0I4ID.js";
