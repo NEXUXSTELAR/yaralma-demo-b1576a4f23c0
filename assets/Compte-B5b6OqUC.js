@@ -1,0 +1,1 @@
+export{r as PageCompte}from"./ProfilClient-qukItAMD.js";
