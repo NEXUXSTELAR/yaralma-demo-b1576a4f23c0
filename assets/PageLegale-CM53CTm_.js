@@ -1,4 +1,4 @@
-import{r as e}from"./Confiance-_oKXpU7N.js";import{t}from"./jsx-runtime-B3vZP9zy.js";var n=`# Conditions générales de vente : Yaralma
+import{r as e}from"./Confiance-C5Pex0AA.js";import{t}from"./jsx-runtime-B3vZP9zy.js";var n=`# Conditions générales de vente : Yaralma
 
 *Projet de travail du 6 novembre 2026 : pas encore relu par un avocat.*
 
@@ -646,4 +646,424 @@ Les clients résidant dans l'Union européenne disposent aussi du droit à la **
 Cette politique peut évoluer. La date de mise à jour figure ci-dessous. En cas de changement important, Yaralma vous prévient par message.
 
 *Version 0.1 du 2 novembre 2026.*
-`,i=t();function a({quoi:t}){return t===`conditions`?(0,i.jsx)(e,{titre:`Conditions de vente`,texte:n}):(0,i.jsx)(e,{titre:`Confidentialité`,texte:r})}export{a as default};
+`,i=`# Contrat-cadre de mise en ligne, d'embouche et de vente à terme d'animaux identifiés
+
+*Projet de travail du 6 novembre 2026 : pas encore relu par un avocat.*
+
+*Pour l'éleveur : ce contrat est écrit en français. Il vous est lu et expliqué dans votre langue avant la signature (article 17). Prenez le temps de poser vos questions. Vous pouvez le faire relire par une personne de confiance.*
+
+---
+
+## L'essentiel en 8 points
+
+1. **Mettre un mouton en ligne ne coûte rien et n'engage à rien.** Vous le proposez depuis votre téléphone, ou celui d'un membre de votre famille (article 1 bis.8), vous choisissez avec l'équipe la façon de vérifier le mouton (appel vidéo, vidéo ou visite sur place), et vous acceptez le prix, discuté mouton par mouton. **Tant qu'aucun client ne l'a pris, il est à vous : vous le retirez quand vous voulez et vous le vendez où vous voulez.** Yaralma ne vous doit rien pour ce mouton, et sa vente n'est pas garantie.
+2. **Quand un client le prend, vous confirmez sous 24 heures** que vous l'avez toujours. **La vente est alors ferme.** Vous ne pouvez plus le vendre ailleurs. Si vous le vendez quand même, vous rendez ce que vous avez reçu et vous payez une indemnité (article 10).
+3. Vous êtes payé en **4 fois** sur votre compte Wave, **au rythme du client** : **30 %** après le délai sans frais du client et le contrôle sur place, quand le client a versé au moins 25 % de son prix ; **35 %** quand le client a versé 55 % de son prix et qu'une vidéo est validée ; **25 %** à la collecte, quand le client a tout payé ; **10 %** après la remise et 72 heures sans réclamation.
+4. Si le client est en retard, un paiement peut être reporté de **30 jours au plus**. Ensuite, le mouton est remis en vente, et vous êtes payé au rythme du nouveau client. Sans preneur, il vous revient et vous rendez ce que vous avez reçu pour lui (article 4.4).
+5. Vous vous engagez à bien le **nourrir, le soigner, l'abriter**, et à le **filmer chaque mois et la veille de sa collecte**. La **date de remise est écrite sur sa fiche** à la vente : vous pouvez avoir à le garder **jusqu'à 12 mois**, au prix fixé. **Pas de pesée obligatoire, pas de prime ni de retenue au kilo.** Mais un mouton négligé est un manquement : **vous rendez ce que vous avez reçu** (article 8).
+6. Vos autres moutons restent à vous. Vous ne vendez pas directement à un client présenté par Yaralma (article 10 bis).
+7. Si un mouton vendu meurt, ou s'il ne peut pas être livré parce qu'il est malade ou blessé, **sans faute de votre part**, quand le vétérinaire le confirme, vous rendez **la moitié** de ce que vous avez reçu pour lui : même règle que le client ait pris une option ou non (proposition, à tester). S'il meurt **par négligence**, vous remboursez ou vous remplacez.
+8. Le mouton reste chez vous jusqu'à sa **collecte, le jour de sa course**, par le livreur prévu, à qui vous donnez le **code de collecte**. En cas de désaccord : d'abord à l'amiable, puis une médiation, puis le tribunal.
+
+---
+
+## Entre les soussignés
+
+**L'acheteur : Yaralma**
+à préciser, SUARL au capital de : à préciser FCFA, RCCM à préciser, NINEA à préciser, siège à préciser, représentée par à préciser, gérant, ou par à préciser, agissant en vertu d'une délégation écrite du : à préciser.
+Ci-après « **Yaralma** ».
+
+**Le vendeur : l'éleveur**
+Prénom et nom : à préciser
+Pièce d'identité (CNI ou passeport) n° : à préciser, délivrée le à préciser
+NINEA (s'il existe) : à préciser
+Adresse de la bergerie : à préciser
+Téléphone et numéro Wave **à son nom** : à préciser
+
+Proche qui l'aide, s'il n'a pas de smartphone (article 1 bis.8), nom, téléphone et pièce d'identité : à préciser
+Ci-après « **l'Éleveur** ».
+
+## Préambule
+
+Yaralma vend à ses clients, partout au Sénégal, des moutons **identifiés à l'avance**, livrés pour la Tabaski ou pour une autre occasion, à la date choisie par le client. Pour cela, des éleveurs proposent gratuitement leurs moutons sur la plateforme de Yaralma. Yaralma achète un mouton au moment où un client le prend et où l'éleveur confirme. L'éleveur le garde et l'engraisse jusqu'à la collecte. L'identité de l'Éleveur a été vérifiée le à préciser, [en vidéo / sur place].
+
+Les parties conviennent de ce qui suit.
+
+## Article 1. Objet
+
+1.1. **Contrat-cadre.** Ce contrat fixe les règles pour tous les moutons que l'Éleveur propose sur la plateforme de Yaralma. Il n'oblige pas l'Éleveur à proposer un mouton, ni Yaralma à en acheter un.
+
+1.2. **Vente, mouton par mouton.** Quand un client prend un mouton et que l'Éleveur confirme (article 1 bis.5), l'Éleveur **le vend à Yaralma**. Il est identifié par son **numéro**, avec une **boucle**, une **fiche d'identité** Yaralma, ou les deux (article 2.1), sa race, son âge estimé et sa gamme.
+
+1.3. **Vente à terme.** Une fois la vente ferme, ce contrat est une **vente à terme**, assortie d'une prestation d'embouche et de garde : l'Éleveur **garde, nourrit, soigne et engraisse** le mouton jusqu'à la collecte, et le remet en bon état (article 8). Les paiements de Yaralma sont **des fractions du prix d'achat**. Ils ne produisent aucune rémunération et ne sont jamais une avance d'argent à rembourser, sauf dans les cas prévus aux articles 8, 9, 10 et 12.
+
+1.4. **Inscription et acceptation dans l'application.** L'Éleveur peut s'inscrire lui-même depuis l'application, avec son numéro confirmé par un code. Avant son premier mouton, il fait vérifier son identité : photo de sa pièce d'identité, regardée par l'équipe puis effacée, ou appel de l'équipe avec un code envoyé sur son numéro. Il accepte ensuite ce contrat, après l'explication de l'article 17 : dans l'application, où son numéro confirmé par un code vaut signature, avec la version du contrat et la date ; ou sur papier, devant l'équipe.
+
+
+## Article 1 bis. Mise en ligne, confirmation et vente ferme
+
+1 bis.1. **Mise en ligne gratuite.** L'Éleveur propose son mouton depuis son téléphone, ou celui d'un proche (article 1 bis.8) : photos, race, âge, poids s'il le connaît (facultatif, montré au client « à titre indicatif »), et prix qu'il veut. Rien à payer. L'équipe répond sous 48 heures : d'accord, à corriger, ou refusé avec le motif. Le prix se discute, puis il l'accepte d'un geste (article 3). À ce moment, il peut aussi réduire la durée maximale de ce mouton, avec l'équipe (article 1 ter.2). Le mouton est alors en ligne.
+
+1 bis.2. **Vérification, au choix de l'Éleveur.** **En vidéo** : l'application affiche un code à 4 chiffres, valable 48 heures. Il l'écrit sur un papier et filme, en une prise, le papier, puis le mouton de tous les côtés. En cas de doute, l'équipe l'appelle en vidéo. **Sur place** : un agent ou un vétérinaire passe voir le mouton. Le client lit « Vérifié par l'équipe », avec la date ; l'équipe garde la méthode notée, et ne laisse jamais croire à une visite qui n'a pas eu lieu.
+
+1 bis.2 bis. **Éleveur vérifié.** Une fois son contrat signé, l'Éleveur peut demander le badge « Éleveur vérifié », gratuit pour lui. Un agent Yaralma le rencontre chez lui, ou en entretien par appel vidéo, et remplit une grille : identité et compte Wave au même nom, troupeau vu, abri et eau, aliment, santé des bêtes, vétérinaire joignable, vidéo selon la règle, contrat expliqué, absence de signe de fraude. Il appelle au moins deux personnes qui connaissent l'Éleveur comme éleveur. Une autre personne de l'équipe que l'agent valide. Le badge vaut **12 mois**, renouvelable. Le client voit sur le profil de l'Éleveur « Éleveur vérifié », avec la date et la façon (chez lui ou en entretien vidéo), **jamais le nom de l'agent**. Effet : un mouton proposé « sur place » par un Éleveur vérifié n'attend plus la visite d'un agent pour ce mouton ; le contrôle sur place de l'article 1 bis.7 reste dû pour un mouton vérifié en vidéo. Yaralma retire le badge, avec le motif écrit, en cas de plainte confirmée, de fraude, de manquement aux articles 8 ou 10, ou de refus d'une nouvelle visite.
+
+1 bis.3. **Tant qu'aucun client ne l'a pris.** Le mouton reste à l'Éleveur, à ses risques. Il peut le retirer d'un geste, à tout moment, sans frais ni justification, et le vendre où il veut. Le mouton n'est pas lié à Yaralma, et Yaralma ne doit rien. Un mouton non reconfirmé depuis 30 jours quitte le catalogue jusqu'à ce que l'Éleveur réponde.
+
+1 bis.3 bis. **Votre localisation.** Yaralma ne donne la localisation précise de votre bergerie au client qu'après l'achat. Si vous la lui donnez vous-même dans la messagerie, c'est votre choix, et Yaralma n'en est pas responsable.
+
+1 bis.4. **Réservation.** Quand un client prend le mouton, il a 45 minutes pour payer l'acompte. Pendant ce temps, l'Éleveur ne peut plus le retirer.
+
+1 bis.5. **Confirmation sous 24 heures.** Acompte payé, l'Éleveur est prévenu et confirme d'un geste qu'il a toujours le mouton. S'il ne confirme pas, ou s'il ne l'a plus, le client choisit un autre mouton ou est remboursé. Après deux fois, l'Éleveur quitte la plateforme.
+
+1 bis.6. **Vente ferme.** Dès que l'Éleveur confirme, la vente est ferme des deux côtés, au prix de la fiche (annexe 3). L'Éleveur ne peut plus vendre ce mouton ailleurs (article 10).
+
+1 bis.7. **Contrôle sur place.** Pour un mouton vérifié en vidéo, un agent ou un vétérinaire le voit, le compare à sa fiche, pose le repère si besoin, signe et confirme qu'il s'agit du même animal, dans les 9 jours, avant le premier paiement. Si la remise est plus proche, avant la remise. Si ce n'est pas le même animal, la vente tombe et l'article 10 s'applique.
+
+
+1 bis.8. **Sans smartphone : un membre de sa famille peut faire pour lui**. L'Éleveur qui n'a pas de smartphone peut passer par le téléphone d'un membre de sa famille, majeur, nommé en tête du contrat (le « proche »). **Tout reste au nom de l'Éleveur, même s'il ne gère pas lui-même.**
+
+- **Son accord.** L'Éleveur donne son accord lors de l'explication de l'article 17, en vidéo ou sur place, devant l'équipe. Le proche montre sa pièce d'identité et accepte ces règles. Proposition, à tester : à la première vente, l'équipe appelle l'Éleveur pour vérifier qu'il est d'accord.
+- **Ce que le proche peut faire.** Proposer un mouton, filmer, accepter un prix, retirer un mouton, confirmer une vente sous 24 heures et répondre aux messages.
+- **Qui répond.** Ces gestes engagent l'Éleveur comme s'il les avait faits lui-même. Une erreur du proche reste, envers Yaralma, celle de l'Éleveur. Ils règlent cela entre eux.
+- **L'argent.** Les paiements vont uniquement sur le numéro Wave **au nom de l'Éleveur** (article 4.1), jamais sur celui du proche. Sans numéro Wave à son nom, aucun paiement ne peut partir : à préciser.
+- **Ce que le proche voit.** Les prix, les paiements et les messages de l'Éleveur. Il ne les répète à personne. Il suit les mêmes règles de discussion (article 6.10), et il est prévenu que **ses vocaux sont conservés et que l'équipe peut en écouter un échantillon** (annexe 6).
+- **Changer de proche.** L'Éleveur peut le remplacer ou le retirer à tout moment, en prévenant l'équipe, qui vérifie que la demande vient bien de lui. Ce qui a été fait avant reste valable.
+
+## Article 1 ter. Date de remise, durée de garde et tout le pays
+
+1 ter.1. **Date écrite par mouton.** À chaque vente, Yaralma écrit sur la fiche du mouton (annexe 3) la date de remise choisie par le client : la fenêtre de la Tabaski, une date précise ou un mois. L'Éleveur la voit avant de confirmer.
+
+1 ter.2. **Durée maximale, mouton par mouton.** Par défaut, le client peut payer en **11 mensualités, sans compter l'acompte**. L'Éleveur peut alors avoir à garder le mouton **jusqu'à environ 12 mois** après la vente, au prix de la fiche. À la mise en ligne, avec l'équipe de Yaralma, l'Éleveur peut **réduire la durée maximale de ce mouton**. Elle est écrite sur sa fiche de prix (annexe 3). C'est elle qui est affichée au client, qui choisit ensuite sa durée dans cette limite. **Ces durées restent une hypothèse, à tester auprès des éleveurs.** Un report demandé par le client (autre date) suppose l'accord de l'Éleveur.
+
+1 ter.3. **Tout le pays.** La bergerie et le client peuvent se trouver dans n'importe quelle région du Sénégal. Le mouton part de la bergerie : il n'y a pas de regroupement.
+
+1 ter.4. **Tabaski 2027.** Pour un mouton vendu pour la Tabaski 2027 : collecte le jour de sa course, remise au client du 7 au 15 mai 2027, dernier paiement au plus tard le 20 mai 2027.
+
+
+
+## Article 1 quater. Client résidant dans l'Union européenne
+
+1 quater.1. La loi donne à ce client le droit de se rétracter jusqu'à 14 jours après la réception. **Son mouton reste donc sous option chez l'Éleveur jusqu'à sa collecte.** La fiche du mouton le dit avant que l'Éleveur confirme.
+
+1 quater.2. L'Éleveur ne vend pas ce mouton ailleurs pendant cette période. Il n'est payé qu'à la collecte. **Si le client part avant la collecte, le mouton reste à l'Éleveur, et Yaralma ne doit rien de plus** :.
+
+
+## Article 2. Les animaux
+
+2.1. Chaque mouton mis en ligne reçoit un **numéro** (format YAR-27-XXXX). Il est identifié par une **boucle** portant ce numéro, par une **fiche d'identité** (annexe 2), ou par les deux : Yaralma l'écrit pour chaque mouton. La fiche comprend les signes distinctifs, 4 photos (côté gauche, côté droit, face, signe distinctif) et une vidéo de 15 secondes, animal entier, numéro dit à voix haute. L'Éleveur confirme la fiche par un code reçu sur son téléphone enregistré, ou par une fiche papier signée ou avec l'empreinte de son pouce (article 1 bis.8). Le **repère** est la boucle ou, sans boucle, un ruban ou un collier posé par l'Éleveur sans blesser l'animal. Au contrôle sur place (article 1 bis.7), l'agent ou le vétérinaire compare le mouton à sa fiche ou à sa boucle et signe. Rien ne s'efface : une correction de la fiche crée une nouvelle version, avec la raison et son auteur. Un ruban ou un collier aide à reconnaître le mouton, sans rien prouver seul.
+
+2.2. Seuls sont acceptés des moutons **nés et élevés au Sénégal**, vaccinés et déparasités selon le protocole de l'annexe 4, sans signe de maladie, et dont l'Éleveur est le propriétaire légitime. L'Éleveur le garantit.
+
+2.3. Aucune limite du nombre de moutons par éleveur. Le maximum de la saison 2027 vaut pour toute la plateforme : 100 moutons, relevable par Yaralma.
+
+## Article 3. Prix négocié mouton par mouton
+
+3.1. Les moutons ne se ressemblent pas : le prix de chacun est **négocié avec l'Éleveur, mouton par mouton**. Il est consigné dans une **fiche de prix (annexe 3, une par mouton)**, signée ou acceptée d'un geste par l'Éleveur, avant que le mouton soit proposé aux clients. Tant qu'aucun client ne l'a pris, l'Éleveur reste libre de le retirer. Dès la vente, c'est le **prix garanti** : il ne baisse pas si les prix du marché baissent, et il ne monte pas s'ils montent.
+
+3.2. **Un seul prix fait foi : celui de la fiche de prix du mouton.** Il n'existe pas de prix par gamme. La gamme de chaque mouton est écrite sur sa fiche. Yaralma fixe seule son prix de vente au client.
+
+3.3. *Supprimé le 6 novembre 2026 : il n'y a plus de prime ni de retenue au kilo. Coût ou économie à recalculer dans v4.*
+
+3.3 bis. **Prime de fidélité** : pas cette saison.
+
+3.3 ter. **Client apporté par l'Éleveur** : pas cette saison.
+
+3.3 quater. **Aliment** [option, à tester avec 2 ou 3 éleveurs] : Yaralma peut proposer à l'Éleveur de l'aliment acheté en gros, livré, au prix écrit sur un bon. Avec l'accord écrit de l'Éleveur, ce prix est déduit des 1er et 2e paiements, dans la limite de : à préciser. L'Éleveur reste libre d'acheter son aliment ailleurs. Cette offre prend fin si le contrat est rompu. (paiement partiel en nature face à l'article 4.1, activité de vente d'aliment ; question à l'expert-comptable sur la TVA.)
+
+3.4. Le prix comprend l'animal, son alimentation, ses soins courants et son abri, et **les 4 premiers mois de garde** après la vente. La part de garde au-delà est à l'article 3.5. Le **transport** depuis la bergerie, l'**identification** (boucle, fiche d'identité) et l'**agent Yaralma** sont à la charge de Yaralma. Le contrôle sur place :.
+
+
+3.5. **Part de garde.** Si le client a choisi une remise à plus de 4 mois, il paie une garde selon la date de remise. L'Éleveur en reçoit 70 % : **3 500 FCFA par mois, toutes gammes**, par mouton. Elle est versée **chaque mois**, par Wave, sur preuve de la vidéo du mois, à partir de l'argent déjà encaissé. Elle est **suspendue si le client est en retard**. C'est un complément, pas un salaire : elle ne couvre pas le coût de l'aliment. Montants proposés, sans mesure.
+
+## Article 4. Calendrier de paiement : 30 / 35 / 25 / 10
+
+| Paiement | Montant | Quand | Condition |
+|---|---|---|---|
+| 1er paiement | **30 %** du prix garanti | Après le délai sans frais du client (J+11). Sur une longue durée, il peut venir plus tard | Vente ferme, **contrôle sur place fait**, fiche signée par l'agent, et **client à 25 % de son prix au moins** |
+| 2e paiement | **35 %** du prix garanti | Quand le **client a versé 55 % de son prix** | **Vidéo validée**, filmée dans l'application (numéro incrusté et dit à voix haute, repère, animal entier), datée d'après le milieu de la période entre la vente et la date de remise (moins de 45 jours : n'importe quelle vidéo après la vente), aucun manquement grave en cours |
+| 3e paiement | **25 %** du prix garanti | À la **collecte**, le jour de la course (article 13) | **Le client a tout payé.** Vidéo d'avant-départ (article 8.2 bis), code de collecte, photos et état noté par le livreur (article 8.4) |
+| 4e paiement (retenue de garantie) | **10 %** du prix garanti | Après la remise et un **délai de 72 heures** (au plus tard le **20 mai 2027** pour la Tabaski 2027) | Aucune réclamation fondée du client sur l'identité (fiche), la santé ou le bon état. En cas de réclamation fondée, la retenue sert d'abord à dédommager le client ; le solde éventuel est versé à l'Éleveur |
+
+4.1. **Comment** : uniquement par **Wave Business**, sur le numéro Wave **au nom de l'Éleveur** indiqué en tête du contrat. Yaralma ne paie **jamais en espèces** et jamais sur le numéro d'une autre personne. Chaque paiement est validé par deux personnes chez Yaralma, et l'Éleveur reçoit un reçu avec les numéros de mouton concernés.
+
+4.2. **Retard de paiement de Yaralma** : si Yaralma paie avec plus de **7 jours** de retard, elle prévient l'Éleveur et lui donne une nouvelle date. Indemnité de retard : pas cette saison. Après 30 jours de retard, l'Éleveur peut résilier le contrat pour l'animal concerné et le garder, en remboursant les paiements reçus pour cet animal.
+
+4.3. **Si cette vidéo n'est pas valable (numéro absent, repère non visible, animal pas entier), ou si elle montre un animal négligé**, le 2e paiement est reporté de 30 jours, le temps de refaire la vidéo ou de corriger la ration avec l'agent Yaralma. Il est versé dès qu'une vidéo est validée.
+
+4.4. **Si le client est en retard.** Le 2e ou le 3e paiement peut être reporté de **30 jours au plus**. Si le client ne paie toujours pas, Yaralma remet le mouton en vente : le mouton reste chez l'Éleveur, et les paiements suivants sont versés au rythme du nouveau client. Le 3e paiement n'est versé que si le prix du mouton est entièrement payé. Sans preneur 16 jours après la fin de la fenêtre de remise, Yaralma ne reprend pas le mouton : il vous revient, vous pouvez le vendre où vous voulez, et vous rendez à Yaralma ce que vous avez reçu pour lui (article 12 bis).
+
+## Article 4 bis. Option : livraison par l'Éleveur
+
+**Cet article ne s'applique pas à la saison 2027.** Il pourra être activé à partir de la saison suivante, pour un Éleveur fiable, par un avenant écrit.
+
+4 bis.1. L'Éleveur peut déclarer, dans son espace, qu'il accepte de **livrer lui-même** les animaux aux clients, avec son véhicule à préciser, à la date de remise de chaque mouton, aux créneaux choisis par les clients.
+
+4 bis.2. Pour chaque livraison faite par lui, Yaralma lui verse **85 %** du prix de livraison payé par le client selon la grille publiée, arrondis aux 500 FCFA inférieurs (par exemple 5 500 FCFA sur 7 000), par Wave, avec le 4e paiement. Yaralma conserve le reste.
+
+4 bis.3. L'Éleveur suit la check-list de remise de Yaralma (fiche, état du mouton, photo sans visage sauf accord, code de remise à 6 chiffres transmis à Yaralma, vidéo de remise pour la diaspora). Il ne reçoit **aucun paiement** du client.
+
+4 bis.4. Pendant le transport, l'Éleveur répond de l'animal comme pendant la garde (article 9). Il justifie d'une assurance de son véhicule couvrant le transport d'animaux.
+
+4 bis.5. S'il ne peut pas assurer une livraison, il prévient Yaralma au plus tard 48 heures avant ; un livreur partenaire reprend la course, et aucune part de livraison n'est due.
+
+
+## Article 5. Propriété et garde
+
+5.1. **La propriété de chaque mouton passe de l'Éleveur à Yaralma quand il confirme la vente** (article 1 bis.6). Yaralma le revend aussitôt à son client, qui en devient propriétaire selon les conditions de vente. Avant cette confirmation, l'Éleveur reste propriétaire et supporte seul les risques. En cas de reprise (article 12 bis), la propriété revient à l'Éleveur.
+
+5.2. Après la vente, l'Éleveur garde le mouton **pour le compte de Yaralma et de son client**, jusqu'à la remise. Il est **gardien** de l'animal : il en répond comme un bon professionnel de l'élevage.
+
+5.3. La boucle, la fiche d'identité, les photos et les vidéos font foi entre les parties sur la propriété de Yaralma. L'Éleveur s'engage à informer immédiatement Yaralma si une personne (créancier, voisin, autorité) revendique un mouton vendu.
+
+
+## Article 6. Obligations de l'Éleveur
+
+L'Éleveur s'engage à :
+
+1. **Alimentation** : donner chaque jour au moins la **ration minimale** de l'annexe 4 (fourrage, concentré, sel, eau propre à volonté) et garder un stock d'aliment d'au moins à préciser.
+2. **Soins vétérinaires** : respecter le protocole de vaccination et de déparasitage de l'annexe 4, appeler le vétérinaire désigné par Yaralma au moindre signe de maladie, et conserver les carnets et les preuves des soins. Les soins courants sont à sa charge ; les visites vétérinaires décidées par l'équipe ou demandées par le client ne sont pas à sa charge.
+3. **Abri** : loger les moutons à l'ombre, à l'abri de la pluie et des voleurs, la nuit dans un enclos fermé.
+4. **Vidéo mensuelle** : filmer chaque mouton vendu **une fois par mois de garde**, en une vidéo de 20 secondes (numéro dit à voix haute, repère visible, animal entier, date), selon la grille de l'annexe 5, et **la veille de la collecte** (article 8.2 bis). La pesée n'est pas obligatoire.
+5. **Visites** : laisser entrer, sur simple prévenance de 24 heures, l'agent Yaralma, le coordinateur, le vétérinaire de Yaralma et, sur rendez-vous fixé par Yaralma, un client accompagné. Les visites de clients sont organisées par Yaralma, pas directement avec l'Éleveur.
+6. **Boucle et repère** : ne jamais enlever ni échanger la boucle ou le repère d'un mouton. En cas de perte, prévenir Yaralma dans les 24 heures et le remettre. Le numéro ne change pas.
+7. **Interdiction de céder** : ne jamais **vendre, échanger, donner, prêter ou confier** à un tiers un mouton déjà vendu, ni le mettre en gage (voir l'article 10).
+8. **Déclaration des incidents** : prévenir Yaralma **dans les 24 heures** de toute mort, maladie, blessure, vol ou disparition (article 9).
+9. **Remise** : présenter le mouton, propre et abreuvé, à la bergerie, le jour de la course, et ne le remettre **qu'au livreur prévu**, contre le code de collecte (article 13), ou, si le client s'occupe du transport, à la personne qui donne le code de remise (article 13.4).
+10. **Discussion avec les clients** : parler avec les clients uniquement par la messagerie de la plateforme (texte et vocal), sans donner son numéro, sans demander de numéro, sans parler de prix ni de paiement, et sans poster de pancarte ou de numéro sur les photos et vidéos (annexe 6).
+11. **Ne pas tromper sur l'animal** : ne jamais gonfler le ventre, ni modifier les oreilles, la queue ou les cornes, ni donner de produit pour le faire paraître plus gros.
+
+**Un animal négligé est traité comme un manquement** (articles 8.5 et 12.2).
+
+## Article 7. Obligations de Yaralma
+
+Yaralma s'engage à :
+
+1. **payer** le prix, aux conditions de l'article 4, pour chaque mouton vendu. Si le client part ou cesse de payer, les articles 4.4 et 12 bis s'appliquent. Yaralma ne doit rien pour un mouton sans client ;
+2. établir les **fiches d'identité**, organiser et payer l'**agent Yaralma** ;
+3. organiser et payer la **collecte** et le transport depuis la bergerie ;
+4. ne **jamais renégocier le prix à la baisse** après la vente ;
+5. présenter l'Éleveur avec respect et, **seulement s'il l'accepte par écrit** (annexe 6), montrer aux clients ce que prévoit cette annexe, et utiliser son image dans la communication de Yaralma ; ne jamais montrer au client les montants versés à l'Éleveur ; organiser elle-même les visites des clients à la bergerie ;
+6. protéger les données personnelles de l'Éleveur (politique de confidentialité de Yaralma) ;
+7. [Si une assurance est souscrite] assurer les animaux, à ses frais (article 9.5).
+
+## Article 8. Vidéos, bon état et mouton négligé
+
+8.1. **Pas de poids à atteindre.** Aucun poids n'est écrit au contrat. Il n'y a ni pesée obligatoire, ni prime, ni retenue au kilo. Si l'Éleveur connaît le poids de son mouton, il peut le donner : le client le lit « à titre indicatif ».
+
+8.2. **La vidéo du mois.** L'équipe de Yaralma regarde chaque vidéo et la valide. Les paiements qui demandent une preuve tiennent à cette vidéo validée (article 4).
+
+8.2 bis. **Vidéo d'avant-départ.** La veille de la collecte, au moins 24 heures avant le départ, l'Éleveur, l'agent ou l'équipe filme le mouton (numéro dit à voix haute, repère visible, animal entier, date). Le livreur ne la filme pas. Elle arrive dans le suivi du client, qui a jusqu'au départ pour signaler un problème. **Si elle manque, ou si une objection est ouverte, le mouton ne part pas, sauf décision écrite de l'équipe,** et le 3e paiement, qui attend la collecte, attend aussi.
+
+8.3. **Vidéo inquiétante.** Si une vidéo montre un animal qui semble négligé ou qui va mal, l'équipe appelle l'Éleveur tout de suite. Yaralma peut organiser une visite du coordinateur et du vétérinaire et convenir d'une nouvelle ration.
+
+8.4. **Le bon état à la collecte et à la remise.** Un mouton en bon état n'a pas de blessure, ne boite pas, n'a pas l'air malade ni abattu, et n'a pas de maigreur marquée (côtes, colonne et os des hanches qui ressortent nettement à la vue). Il n'y a ni chiffre ni balance : on se fie aux vidéos et à ce qu'on voit, et au vétérinaire en cas de doute, si on en trouve un. À la porte, le client ne peut refuser que sur ces signes ou si ce n'est pas le bon mouton, avec une photo ou une vidéo. **C'est l'équipe qui tranche,** ni le client seul, ni le livreur. Le livreur note l'état du mouton dans son espace, avec des photos, en présence de l'Éleveur ou de son représentant.
+
+8.5. **Mouton négligé.** C'est un manquement de l'Éleveur, constaté d'après les vidéos, les photos et, en cas de doute, le vétérinaire. Le mouton ne part pas, ou le client peut le refuser à la remise. L'Éleveur **rend ce qu'il a reçu** pour ce mouton, sous 14 jours. La propriété de l'animal lui revient dès le remboursement. Le client choisit un autre mouton équivalent, s'il en existe, ou le remboursement total. L'Éleveur peut proposer un mouton équivalent, que le client reste libre d'accepter. **Si l'Éleveur conteste, Yaralma rembourse d'abord le client et règle ensuite avec lui** (article 14).
+
+8.6. **Malade, blessé ou mort sans faute.** Constaté par le vétérinaire : l'article 9.3 s'applique.
+
+8.7. **Pendant la course.** À partir de la collecte, les risques du transport ne sont plus à la charge de l'Éleveur. Si le mouton est blessé, malade, mort, perdu ou volé pendant la course, l'Éleveur ne rend rien et reçoit ses 4 paiements. La garde restante s'arrête, puisqu'il ne nourrit plus le mouton.
+
+
+## Article 9. Mort, maladie, vol ou disparition
+
+9.1. **Déclaration sous 24 heures** : l'Éleveur prévient Yaralma par appel **et** par WhatsApp, avec photo et vidéo de l'animal et de son repère. En cas de mort, il **ne doit ni déplacer, ni dépecer, ni enterrer** la carcasse avant le passage du vétérinaire ou l'accord écrit de Yaralma, sauf ordre d'une autorité sanitaire. En cas de vol, il porte plainte à la gendarmerie et transmet le récépissé.
+
+9.2. **Le vétérinaire** désigné par Yaralma établit un certificat qui indique la cause de la mort ou de la maladie, et s'il y a eu un manque de soins.
+
+9.3. **Mort sans faute de l'Éleveur** (maladie malgré les soins, accident, foudre, attaque d'animal, vol malgré un enclos fermé) :
+
+- quand le vétérinaire confirme la mort sans faute, après avoir comparé le corps aux photos de la fiche, avec une photo du corps, l'Éleveur **rend la moitié de ce qu'il a reçu** pour ce mouton, sous 30 jours ;
+- **cette règle est la même que le client ait pris la garantie remplacement ou non** : l'Éleveur n'y gagne ni n'y perd ;
+- l'Éleveur peut proposer un mouton de remplacement de même gamme, au prix du contrat, identifié par une nouvelle fiche ; ce qu'il doit rendre est alors imputé sur ce nouvel animal ;
+- le reste de la perte est supporté par **Yaralma**.
+
+**La même règle vaut pour un mouton malade ou blessé sans faute**, constaté par le vétérinaire, qui ne peut pas être livré (article 8.6). La propriété de l'animal revient alors à l'Éleveur dès qu'il a rendu cette moitié :.
+
+*Proposition, à tester aux entretiens. Le contrôle sert aussi contre le faux décès.*
+
+9.4. **Mort par faute de l'Éleveur** : défaut d'alimentation ou d'eau, soins non faits, vaccin non fait, déclaration après plus de 24 heures, carcasse disparue ou déplacée, animal laissé sans enclos la nuit. L'Éleveur, au choix de Yaralma, **remplace l'animal** à ses frais par un mouton équivalent sous 7 jours, ou **rembourse tous les paiements reçus** pour cet animal sous 15 jours. **Une disparition sans déclaration ni plainte est présumée fautive**, sauf preuve contraire.
+
+
+
+## Article 10. Si l'Éleveur vend ailleurs un mouton déjà vendu
+
+10.1. Après la vente ferme, le mouton **n'appartient plus à l'Éleveur**. Le vendre, l'échanger ou le donner à un tiers, c'est vendre le bien d'autrui.
+
+10.2. S'il le fait, il doit, sous 14 jours :
+
+- **rendre tout ce qu'il a reçu** pour cet animal ;
+- **et payer une indemnité** de : à préciser.
+
+Il peut proposer un mouton équivalent, que le client reste libre d'accepter.
+
+10.3. Yaralma peut alors **résilier tout le contrat** (article 12.2) et **exclure** l'Éleveur de la plateforme. Yaralma se réserve le droit de porter plainte.
+
+
+## Article 10 bis. Clients présentés par Yaralma
+
+10 bis.1. L'Éleveur ne vend pas directement un mouton à un client que Yaralma lui a présenté, pendant la saison et jusqu'au **31 décembre 2027**, ou jusqu'au 31 décembre de l'année de la remise si elle est plus tardive.
+
+10 bis.2. **Liberté préservée.** L'Éleveur reste **libre de vendre tous ses autres animaux à ses propres clients**, et à toute personne que Yaralma ne lui a pas présentée.
+
+10 bis.3. **Conséquences** en cas de manquement : l'année suivante, pas de quota de moutons chez Yaralma. L'article 10 s'applique en plus si le mouton était déjà vendu.
+
+10 bis.4. **Volume.** Les quotas de l'année suivante sont attribués selon la fiabilité de chaque éleveur à préciser.
+
+10 bis.5. Cette clause est lue à voix haute et expliquée avec un exemple (article 17).
+
+
+## Article 11. Force majeure : sécheresse, épizootie, décisions administratives
+
+11.1. Sont des cas de force majeure les événements imprévisibles, irrésistibles et extérieurs aux parties, notamment : une **épizootie** déclarée par les services vétérinaires, une **interdiction de mouvement** d'animaux ou une décision administrative sur les ventes d'animaux, une inondation, un incendie, des troubles graves.
+
+11.2. **La sécheresse et la hausse du prix de l'aliment ne sont pas, à elles seules, un cas de force majeure** : l'Éleveur s'engage sur un prix ferme en connaissant ce risque. Toutefois, en cas de **sécheresse déclarée** par les autorités dans la zone, les parties se réunissent sous 7 jours pour adapter la ration ou la date de remise, de bonne foi.
+
+11.3. **Effets** : la partie touchée prévient l'autre dès que possible. Les obligations sont suspendues pendant l'événement. Si un animal meurt de l'épizootie, la règle de la **mort sans faute** (article 9.3) s'applique. Le client se voit proposer un autre mouton d'une autre zone, ou le remboursement. Si la remise devient impossible à la date prévue, les parties conviennent du sort des animaux (report à une autre fête, rachat par l'Éleveur au prix des paiements reçus, ou vente par Yaralma sur place).
+
+## Article 12. Durée et résiliation
+
+12.1. **Durée** : le contrat commence à la signature et prend fin après la remise du dernier animal et le dernier paiement, au plus tard le **31 mai 2027** pour les moutons de la Tabaski 2027, et un mois après la date de remise pour les autres.
+
+12.2. **Résiliation par Yaralma**, par écrit, après une mise en demeure restée sans effet pendant 8 jours (sauf cession d'un animal, où elle est immédiate) : cession d'un animal vendu, refus répété des vidéos ou des visites, mauvais traitements, négligence non corrigée, fraude sur l'animal ou sur les vidéos, faux renseignements. L'Éleveur rembourse les paiements reçus pour les animaux non remis ; Yaralma peut faire **collecter** immédiatement les animaux qui lui appartiennent, à ses frais.
+
+12.3. **Résiliation par l'Éleveur**, par écrit, après mise en demeure restée sans effet pendant 8 jours : retard de paiement de Yaralma de plus de 30 jours (article 4.2), ou absence de collecte au dernier jour de la fenêtre de remise. L'Éleveur garde alors les paiements reçus, et Yaralma reste propriétaire des animaux payés au moins à 65 %, qu'elle doit collecter sous 7 jours ; pour les autres animaux, l'Éleveur peut les reprendre en remboursant les paiements reçus.
+
+12.4. **Pas de résiliation sans motif** après la vente ferme. Retirer un mouton sans client n'est pas une résiliation (article 1 bis.3). L'Éleveur peut quitter la plateforme quand il n'a plus de mouton vendu en cours.
+
+## Article 12 bis. Reprise du mouton si le client part
+
+12 bis.1. **Tant que le mouton est en revente.** Si le client part ou cesse de payer, Yaralma remet le mouton en vente, et il reste chez l'Éleveur. Si l'Éleveur a déjà reçu de l'argent pour ce mouton, il ne le retire pas seul pendant cette période : il en parle à l'équipe. Une reprise avant la fin de la période n'est pas prévue cette saison.
+
+12 bis.2. **Sans preneur 16 jours après la fin de la fenêtre de remise.** Yaralma ne reprend pas le mouton. Il revient à l'Éleveur, qui peut le vendre où il veut. L'Éleveur rend à Yaralma ce qu'il a reçu pour ce mouton, selon un échéancier écrit [À PRÉCISER].
+
+
+
+
+## Article 13. Collecte et remise
+
+13.1. **Le mouton reste chez l'Éleveur jusqu'à sa collecte, le jour de sa course**, dans la fenêtre de remise écrite sur sa fiche. Il n'y a pas de regroupement. Yaralma prévient l'Éleveur au moins 7 jours avant, ou dès que possible si la vente est plus proche. Si la date officielle de la Tabaski change, la collecte est décalée d'autant.
+
+13.1 bis. **Code de collecte.** Le livreur ne prend pas le mouton sans la vidéo d'avant-départ (article 8.2 bis). L'Éleveur ne remet le mouton qu'au livreur prévu par Yaralma. Il lui donne le **code de collecte** affiché dans son espace. Le livreur le saisit, photographie le mouton et son repère, le compare à sa fiche, et note son état.
+
+13.2. Le vétérinaire n'est pas obligatoire au départ : l'agent ou le livreur regarde l'animal à la collecte. Yaralma envoie un vétérinaire en cas de doute, de maladie ou de désaccord, ou à la demande d'un client passée par Yaralma, s'il y en a un de disponible. Un animal malade n'est pas transporté : la règle de l'article 9 s'applique.
+
+13.3. La remise au livreur est constatée par le **code de collecte**, l'état noté et les photos. Les risques du transport ne sont plus à la charge de l'Éleveur. Sans prix entièrement payé par le client, il n'y a pas de collecte.
+
+13.4. **Mouton remis directement depuis la bergerie.** Si le client s'occupe du transport et vient, ou envoie quelqu'un, chercher le mouton chez l'Éleveur, sur rendez-vous organisé par Yaralma, ou si l'Éleveur le livre lui-même (article 4 bis), il n'y a pas de collecte. Le **3e paiement** est versé à la remise au client, une fois le code de remise transmis à Yaralma. L'Éleveur suit la check-list de remise. Il ne reçoit aucun paiement du client.
+
+
+
+## Article 13 bis. Si Yaralma ne peut plus livrer
+
+*Proposition du tour du système.* Si Yaralma ne peut plus exécuter la vente, l'Éleveur et le client qui a payé peuvent convenir d'une remise directe du mouton, selon un registre tenu chez un tiers : [À ÉCRIRE AVEC L'AVOCAT : conditions, ce que reçoit l'Éleveur, ce que paie le client, qui constate].
+
+13 bis.2. **Personne de confiance.** L'Éleveur déclare une personne de confiance, en cas de décès, de voyage ou de transhumance : [NOM ET NUMÉRO]. Le mouton vendu reste sur place.
+
+## Article 14. Litiges
+
+14.1. **À l'amiable d'abord** : les parties se rencontrent sous 15 jours, avec, si elles le souhaitent, une personne de confiance (chef de village, responsable de la coopérative, imam du village).
+
+14.2. **Médiation** : à défaut d'accord, une médiation selon l'**Acte uniforme OHADA relatif à la médiation** (2017), auprès de : à préciser. Les frais sont à la charge de Yaralma.
+
+14.3. **Tribunal** : à défaut d'accord dans les 60 jours, le litige est porté devant le **tribunal de commerce hors classe de Dakar**.
+
+
+## Article 15. Droit applicable
+
+Le contrat est soumis au **droit sénégalais**, notamment au Code des obligations civiles et commerciales et, dans la mesure où il s'applique, à l'Acte uniforme OHADA relatif au droit commercial général (révisé le 15 décembre 2010).
+
+## Article 16. Données personnelles et image
+
+Yaralma traite les données de l'Éleveur (identité, pièce d'identité, téléphone, numéro Wave, localisation de la bergerie, photos et vidéos) pour exécuter ce contrat, conformément à la loi n° 2008-12 du 25 janvier 2008. L'usage de son nom et de son image en dehors du suivi des clients suppose son **accord écrit** (annexe 6), qu'il peut retirer à tout moment pour l'avenir. La localisation montrée avant l'acompte se limite à une **grande zone**, et le nom du village n'est montré qu'après l'acompte (annexe 6). La position exacte n'est jamais publiée.
+
+## Article 17. Lecture et signature
+
+Le présent contrat, ses annexes et les fiches de prix ont été **lus et expliqués** à l'Éleveur en à préciser par à préciser, qui signe aussi. L'Éleveur déclare les avoir compris. Un exemplaire signé lui est remis (papier et photo par WhatsApp).
+
+Fait à à préciser, le à préciser, en deux exemplaires originaux, ou accepté dans l'application selon l'article 1.4.
+
+| Pour Yaralma | L'Éleveur | L'interprète ou le témoin |
+|---|---|---|
+| Nom, qualité, signature | Nom, signature ou empreinte digitale, mention « lu et approuvé » | Nom, signature |
+
+---
+
+## Annexe 1. Liste des moutons vendus
+
+Tenue dans l'application : une ligne par mouton vendu, visible par l'Éleveur.
+
+| # | Numéro du mouton | Race | Âge estimé (dents) | Gamme | Vérification (comment, par qui, date) | Date du contrôle sur place | Poids, s'il est connu (indicatif) | Prix garanti (FCFA, repris de l'annexe 3) | Date de la vente | Date de remise |
+|---|---|---|---|---|---|---|---|---|---|---|
+| 1 | YAR-27-à préciser | | | | | | | | | | |
+
+## Annexe 2. Fiche animal
+
+| Rubrique | Information |
+|---|---|
+| Numéro du mouton (YAR-27-XXXX) | |
+| Signes distinctifs | |
+| Identification : boucle, fiche, ou les deux | |
+| Repère posé (boucle, ruban, collier) | |
+| Race | |
+| Robe et signes particuliers (cornes, taches) | |
+| Âge estimé (dentition) | |
+| Poids, s'il est connu (indicatif) | |
+| Gamme | |
+| Vaccins faits (nom, date, n° de lot) | |
+| Déparasitage (produit, date) | |
+| Vérification, en vidéo ou sur place (qui, date, avis) | |
+| Photos (côté gauche, côté droit, face, signe distinctif) et vidéo de 15 s, numéro dit à voix haute | Liens |
+| Date et heure du serveur, version de la fiche | |
+| Éleveur et village | |
+| Confirmation de l'Éleveur (code reçu sur son téléphone, ou signature ou empreinte) | |
+| Signature de l'agent ou du vétérinaire | |
+
+## Annexe 3. Fiche de prix, une par mouton
+
+Une fiche par mouton, remplie après la négociation et signée ou acceptée d'un geste **avant que le mouton soit proposé aux clients**. Le prix est payé en 4 tranches, 30 / 35 / 25 / 10 %, selon les conditions de l'article 4.
+
+| Numéro du mouton | Gamme | Prix négocié (FCFA) | Date | Durée maximale (11 mensualités par défaut, moins si l'Éleveur la réduit) | Date de remise (écrite à la vente) | Signature ou accord de l'Éleveur | Signature pour Yaralma |
+|---|---|---|---|---|---|---|---|
+| YAR-27-… | | | | | | | |
+
+## Annexe 4. Ration minimale et protocole sanitaire
+
+à préciser
+
+## Annexe 5. Grille des vidéos mensuelles
+
+| Numéro du mouton | Déc. 2026 | Janv. 2027 | Févr. | Mars | Avril | Collecte (mai) | Vidéo (lien) | Visa équipe |
+|---|---|---|---|---|---|---|---|---|
+| YAR-27-… | | | | | | | | |
+
+Ce modèle vaut pour la Tabaski 2027. Pour une autre date de remise : une vidéo par mois de garde jusqu'à la collecte.
+Règle : une vidéo de 20 secondes, numéro dit à voix haute, repère visible, animal entier, date à l'écran.
+
+## Annexe 6. Ce qui est montré de l'Éleveur, et discussion avec les clients
+
+ Cette annexe et l'écoute d'un échantillon de vocaux sont à faire valider, y compris auprès de la Commission de protection des données personnelles (CDP).
+
+| | Ce que le client voit | Condition |
+|---|---|---|
+| **Avant l'acompte** | Prénom et initiale du nom, grande zone (par exemple Thiès, jamais le village), faits vérifiés (année de début, contrôles, chiffres comptés), message vocal de présentation, photo ; délai de réponse habituel, affiché après 5 réponses | Photo et vocal seulement si vous cochez ci-dessous. Votre vocal est écouté par Yaralma avant d'être publié |
+| **Après l'acompte** | Nom complet et village, donnés aux clients qui ont payé l'acompte | Si vous cochez ci-dessous. Sinon, le client voit « Éleveur partenaire » et votre région |
+| **Jamais** | Votre téléphone, votre numéro Wave, votre position exacte (sauf pour un client qui s'occupe du transport : il reçoit le lieu une fois le mouton entièrement payé, pour venir le chercher sur rendez-vous), **les montants que Yaralma vous verse**, votre contrat | |
+
+**La messagerie.** Le client et vous discutez sur la plateforme, en texte et en vocal. Vous voyez le prénom du client, jamais son numéro. Le texte est filtré automatiquement ; le vocal ne l'est pas. **Les vocaux sont conservés, et l'équipe de Yaralma peut en écouter un échantillon**, pour vérifier que les règles sont respectées et pour traiter les réclamations. Si vous ne répondez pas, le coordinateur peut répondre à votre place. Durées de conservation : 13 mois pour les vocaux, photos et vidéos ; 24 mois pour les textes (voir la politique de confidentialité). Cette écoute vous est expliquée dans votre langue avant d'utiliser la messagerie.
+
+**Retrait.** Vous pouvez retirer votre accord à tout moment, pour l'avenir, par écrit ou sur WhatsApp : Yaralma retire alors ce qui est montré sur ses propres supports.
+
+Cases à cocher :
+
+☐ J'accepte de montrer ma photo avant l'acompte.
+☐ J'accepte d'enregistrer un message vocal de présentation, montré avant l'acompte.
+☐ J'accepte que mon nom complet et mon village soient montrés au client après son acompte.
+☐ J'ai compris que mes messages et vocaux sur la plateforme sont conservés, qu'un échantillon peut être écouté par Yaralma, et que le coordinateur peut répondre à ma place.
+
+☐ J'accepte que mon prénom, ma grande zone et mes photos ou vidéos au travail soient utilisés dans la communication publique de Yaralma (site, réseaux sociaux), pendant à préciser.
+☐ J'accepte que Yaralma publie mon profil sur son site et son application : prénom, nom, village, région, année de début d'élevage, langues, une courte présentation que je valide, ma photo seulement si j'en donne une, et le nombre de moutons suivis et remis. Je sais que ces informations sont visibles par tous. Mon numéro, mon adresse exacte et mes paiements ne sont jamais publiés. ☐ Je préfère que seule ma région soit montrée.
+Je peux retirer cet accord à tout moment, par simple message à Yaralma.
+Date et signature :
+`,a=t();function o({quoi:t}){return t===`contrat_eleveur`?(0,a.jsx)(e,{titre:`Contrat-cadre éleveur`,texte:i}):t===`conditions`?(0,a.jsx)(e,{titre:`Conditions de vente`,texte:n}):(0,a.jsx)(e,{titre:`Confidentialité`,texte:r})}export{o as default};

@@ -1,0 +1,1 @@
+export{i as PagePiece}from"./PieceIdentite-CtoNp2Fm.js";
