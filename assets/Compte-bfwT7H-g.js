@@ -1,1 +1,0 @@
-export{n as PageCompte}from"./Compte-gh_zcWPJ.js";
